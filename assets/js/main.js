@@ -17,44 +17,6 @@
     }
   });
 
-  // data
-  //   .then((result) => {
-  //     // Ensure the data property exists and is an array before iterating
-  //     if (result && Array.isArray(result.data)) {
-  //       result.data.forEach((item) => {
-  //         console.log(item);
-  //         // Do whatever processing you need with each item here
-  //       });
-  //     }
-  //   })
-  //   .catch((error) => {
-  //     console.error("Error processing data:", error);
-  //   }); // This will still log a promise, but now you can use `data` in an async context to get the resolved value.
-
-  /*=====================================
-fetch data
-    ======================================= */
-
-  // const csvUrl =
-  //   "https://raw.githubusercontent.com/aldenkane/Rent-Condor-Web/main/csv_new%2Bold.csv";
-
-  // fetch(csvUrl)
-  //   .then((response) => {
-  //     if (!response.ok) {
-  //       throw new Error("Network response was not ok");
-  //     }
-  //     return response.text();
-  //   })
-  //   .then((data) => {
-  //     console.log(data); // This will print the raw CSV data to the console
-  //     // From here, you can process the CSV data as needed.
-  //   })
-  //   .catch((error) => {
-  //     console.error(
-  //       "There was a problem with the fetch operation:",
-  //       error.message
-  //     );
-  //   });
   /*=====================================
     Map Box Work
     ======================================= */
@@ -63,15 +25,37 @@ fetch data
     Get Current Position
     ======================================= */
 
-  const coords = navigator.geolocation.getCurrentPosition(function (position) {
-    const { latitude } = position.coords;
-    const { longitude } = position.coords;
+  const defaultCoords = [-117.2537344, 32.7712768]; //longitude, latitude
 
-    const coords = [longitude, latitude];
-    console.log(coords);
+  mapboxgl.accessToken =
+    "pk.eyJ1Ijoic3RldmVvaGFuZXNpYW4iLCJhIjoiY2xuam5lbXN4MGNtMTJ0cG1naHFlcGpiayJ9.grLFPTnEokYgXWfy_T4Ddg";
 
-    mapboxgl.accessToken =
-      "pk.eyJ1Ijoic3RldmVvaGFuZXNpYW4iLCJhIjoiY2xuam5lbXN4MGNtMTJ0cG1naHFlcGpiayJ9.grLFPTnEokYgXWfy_T4Ddg";
+  if ("geolocation" in navigator) {
+    navigator.geolocation.getCurrentPosition(
+      function (position) {
+        const { latitude, longitude } = position.coords;
+        initMap([longitude, latitude]);
+      },
+      function (error) {
+        // Handle error or use default coordinates if geolocation failed
+        console.error("Geolocation error:", error);
+        initMap(defaultCoords);
+      },
+      {
+        // Options for geolocation
+        enableHighAccuracy: true, // Whether to request high-accuracy location
+        timeout: 2500, // Maximum time allowed to return a location
+        maximumAge: 0, // Maximum age of a cached location that is acceptable to return
+      }
+    );
+  } else {
+    // Geolocation is not supported by the browser
+    initMap(defaultCoords);
+  }
+  /*=====================================
+   Map functions
+    ======================================= */
+  function initMap(coords) {
     var map = new mapboxgl.Map({
       container: "map",
       center: coords,
@@ -79,64 +63,7 @@ fetch data
       zoom: 10,
     });
 
-    async function fetchData() {
-      try {
-        const response = await fetch("http://localhost:3000/api/properties");
-        const db = await response.json();
-        return db.data;
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      }
-    }
-    let data = fetchData(); //returns a promise object & Address Data
-
-    async function addPoints() {
-      const properties = await data;
-      console.log(data);
-
-      const features = properties.reduce((acc, property, index) => {
-        if (property[3] === "Exact") {
-          const coordinates = property[5].split(",").map(Number);
-          acc.push({
-            type: "Feature",
-            geometry: {
-              type: "Point",
-              coordinates: coordinates,
-            },
-            properties: {
-              address: property[1],
-              rent: property["rent"],
-              company: property["NA1"],
-              link: property["NA2"],
-              beds: property["beds"],
-              baths: property["baths"],
-              index: index,
-            },
-          });
-        }
-        return acc;
-      }, []);
-
-      map.addSource("points-source", {
-        type: "geojson",
-        data: {
-          type: "FeatureCollection",
-          features: features,
-        },
-      });
-
-      map.addLayer({
-        id: "points-layer",
-        type: "circle",
-        source: "points-source",
-        paint: {
-          "circle-radius": 10,
-          "circle-color": "#007cbf",
-        },
-      });
-    }
-
-    addPoints();
+    let data = fetchData().then((data) => addPoints(data, map)); //returns a promise object & Address Data
 
     // Create a popup but don't add it to the map yet
     const popup = new mapboxgl.Popup({
@@ -148,57 +75,134 @@ fetch data
     let overPopup = false;
     let currentPopup = null;
     let popupTimeout;
+
     map.on("mouseenter", "points-layer", (e) => {
       // Change the cursor style as a UI indicator.
       map.getCanvas().style.cursor = "pointer";
-
-      const coordinates = e.features[0].geometry.coordinates.slice();
-      const description = `
-    Address: ${e.features[0].properties.address}<br>
-    Rent: ${e.features[0].properties.rent}<br>
-    Company: ${e.features[0].properties.company}<br>
-    Beds: ${e.features[0].properties.beds}<br>
-    Baths: ${e.features[0].properties.baths}<br>
-    <a href="${e.features[0].properties.link}" target="_blank">More Info</a>
-  `;
-
-      // Ensure that if the map is zoomed out such that multiple
-      // copies of the feature are visible, the popup appears
-      // over the copy being pointed to.
-      while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-      }
-
-      // Populate the popup and set its coordinates
-      // based on the feature found.
-      popup.setLngLat(coordinates).setHTML(description).addTo(map);
-      // Add mouseover and mouseout event listeners
-      const popupElement = popup.getElement();
-      popupElement.addEventListener("mouseenter", () => {
-        overPopup = true;
-      });
-      popupElement.addEventListener("mouseleave", () => {
-        overPopup = false;
-        popup.remove();
-      });
-
-      // Keep track of the current popup
-      currentPopup = popup;
-
-      map.on("mouseleave", "points-layer", () => {
-        map.getCanvas().style.cursor = "";
-        if (currentPopup) {
-          popupTimeout = setTimeout(() => {
-            if (!overPopup && currentPopup.remove) {
-              currentPopup.remove();
-              currentPopup = null;
-            }
-            popupTimeout = null;
-          }, 50); // Adjust the timeout duration as needed
-        }
-      });
+      showPopup(e, map, popup);
+      addPopupEventListener(overPopup, popup, map, currentPopup, popupTimeout);
     });
-  });
+  }
+
+  async function addPoints(properties, map) {
+    const features = properties.reduce((acc, property, index) => {
+      if (property[3] === "Exact") {
+        const coordinates = property[5].split(",").map(Number);
+        acc.push({
+          type: "Feature",
+          geometry: {
+            type: "Point",
+            coordinates: coordinates,
+          },
+          properties: {
+            address: property[1],
+            rent: property["rent"],
+            company: property["NA1"],
+            link: property["NA2"],
+            beds: property["beds"],
+            baths: property["baths"],
+            index: index,
+          },
+        });
+      }
+      return acc;
+    }, []);
+
+    map.addSource("points-source", {
+      // contains all the data, we are storing an object "features"
+      type: "geojson",
+      data: {
+        type: "FeatureCollection",
+        features: features,
+      },
+    });
+
+    map.addLayer({
+      //We add the source object to the map in the form of add layer.
+      id: "points-layer",
+      type: "circle",
+      source: "points-source", //Source ID add Layer points to add Source "points-source"
+      paint: {
+        "circle-radius": 7,
+        "circle-color": "#007cbf",
+      },
+    });
+  }
+
+  function showPopup(e, map, popup) {
+    const coordinates = e.features[0].geometry.coordinates.slice();
+    const description = `
+      Address: ${e.features[0].properties.address}<br>
+      Rent: ${e.features[0].properties.rent}<br>
+      Company: ${e.features[0].properties.company}<br>
+      Beds: ${e.features[0].properties.beds}<br>
+      Baths: ${e.features[0].properties.baths}<br>
+      <a href="${e.features[0].properties.link}" target="_blank">More Info</a>
+    `;
+
+    // Ensure that if the map is zoomed out such that multiple
+    // copies of the feature are visible, the popup appears
+    // over the copy being pointed to.
+    while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+    }
+
+    // Populate the popup and set its coordinates
+    // based on the feature found.
+    popup.setLngLat(coordinates).setHTML(description).addTo(map);
+  }
+
+  /*=====================================
+    Database data functions
+    ======================================= */
+  async function fetchData() {
+    try {
+      const response = await fetch("http://localhost:3000/api/properties");
+      const db = await response.json();
+      return db.data;
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
+  }
+
+  function addPopupEventListener(
+    overPopup,
+    popup,
+    map,
+    currentPopup,
+    popupTimeout
+  ) {
+    // Add mouseover and mouseout event listeners
+    const popupElement = popup.getElement();
+    popupElement.addEventListener("mouseenter", () => {
+      overPopup = true;
+    });
+    popupElement.addEventListener("mouseleave", () => {
+      overPopup = false;
+      popup.remove();
+    });
+
+    // Keep track of the current popup
+    currentPopup = popup;
+
+    map.on("mouseleave", "points-layer", () => {
+      map.getCanvas().style.cursor = "";
+      if (currentPopup) {
+        popupTimeout = setTimeout(() => {
+          if (!overPopup && currentPopup.remove) {
+            currentPopup.remove();
+            currentPopup = null;
+          }
+          popupTimeout = null;
+        }, 50); // Adjust the timeout duration as needed
+      }
+    });
+  }
+
+  /*=====================================
+    END MAP FUNCTIONS
+    ======================================= */
+
   /*=====================================
     Sticky
     ======================================= */
