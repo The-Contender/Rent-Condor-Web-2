@@ -27,6 +27,14 @@
 
   const defaultCoords = [-117.2537344, 32.7712768]; //longitude, latitude
 
+  /*=====================================
+Connecting to PSCALE Database
+    ======================================= */
+
+  /*=====================================
+Close of Connecting to PSCALE Database
+    ======================================= */
+
   mapboxgl.accessToken =
     "pk.eyJ1Ijoic3RldmVvaGFuZXNpYW4iLCJhIjoiY2xuam5lbXN4MGNtMTJ0cG1naHFlcGpiayJ9.grLFPTnEokYgXWfy_T4Ddg";
 
@@ -157,9 +165,9 @@
     ======================================= */
   async function fetchData() {
     try {
-      const response = await fetch("http://localhost:3000/api/properties");
+      const response = await fetch("http://localhost:3000/");
       const db = await response.json();
-      return db.data;
+      return db;
     } catch (error) {
       console.error("Error fetching data:", error);
     }
