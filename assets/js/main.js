@@ -165,7 +165,7 @@ Close of Connecting to PSCALE Database
     ======================================= */
   async function fetchData() {
     try {
-      const response = await fetch("http://localhost:3000/");
+      const response = await fetch("https://node-rentcondor.onrender.com");
       const db = await response.json();
       return db;
     } catch (error) {
