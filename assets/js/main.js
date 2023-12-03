@@ -38,28 +38,28 @@ Close of Connecting to PSCALE Database
   mapboxgl.accessToken =
     "pk.eyJ1Ijoic3RldmVvaGFuZXNpYW4iLCJhIjoiY2xuam5lbXN4MGNtMTJ0cG1naHFlcGpiayJ9.grLFPTnEokYgXWfy_T4Ddg";
 
-  if ("geolocation" in navigator) {
-    navigator.geolocation.getCurrentPosition(
-      function (position) {
-        const { latitude, longitude } = position.coords;
-        initMap([longitude, latitude]);
-      },
-      function (error) {
-        // Handle error or use default coordinates if geolocation failed
-        console.error("Geolocation error:", error);
-        initMap(defaultCoords);
-      },
-      {
-        // Options for geolocation
-        enableHighAccuracy: true, // Whether to request high-accuracy location
-        timeout: 2500, // Maximum time allowed to return a location
-        maximumAge: 0, // Maximum age of a cached location that is acceptable to return
-      }
-    );
-  } else {
-    // Geolocation is not supported by the browser
-    initMap(defaultCoords);
-  }
+  // if ("geolocation" in navigator) {
+  //   navigator.geolocation.getCurrentPosition(
+  //     function (position) {
+  //       const { latitude, longitude } = position.coords;
+  //       initMap([longitude, latitude]);
+  //     },
+  //     function (error) {
+  //       // Handle error or use default coordinates if geolocation failed
+  //       console.error("Geolocation error:", error);
+  //       initMap(defaultCoords);
+  //     },
+  //     {
+  //       // Options for geolocation
+  //       enableHighAccuracy: true, // Whether to request high-accuracy location
+  //       timeout: 2500, // Maximum time allowed to return a location
+  //       maximumAge: 0, // Maximum age of a cached location that is acceptable to return
+  //     }
+  //   );
+  // } else {
+  // Geolocation is not supported by the browser
+  initMap(defaultCoords);
+  // }
   /*=====================================
    Map functions
     ======================================= */
