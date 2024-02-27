@@ -1,0 +1,574 @@
+Address,Zip,Price,Bedrooms,Bathrooms,Sqft,Availability,Property Manager,Link
+"43859 Cala Sandor (prior name Calle Sandor) Temecula, CA",92592,3395.00,3,3,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1413718/43859-cala-sandor-(prior-name-calle-sandor)-temecula-ca-92592
+"1222 Sundown Glen Escondido, CA",92026,2850.00,2,2,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1413717/1222-sundown-glen-escondido-ca-92026
+"500 Orpheus Ave Encinitas, CA",92024,6295.00,3,2,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1413658/500-orpheus-ave-encinitas-ca-92024
+"724 Whispering Trails Dr. Chula Vista, CA",91914,4200.00,3,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1413401/724-whispering-trails-dr-chula-vista-ca-91914
+"405 N Juniper Unit 2 Escondido, CA",92025,1600.00,1,1,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1413129/405-n-juniper-unit-2-escondido-ca-92025
+"2320 Magnolia Way National City, CA",91950,3150.00,3,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1413128/2320-magnolia-way-national-city-ca-91950
+"609 Beyer Way #303 San Diego, CA",92154,2950.00,3,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1412425/609-beyer-way-#303-san-diego-ca-92154
+"760 Anchor Cove San Diego, CA",92154,3350.00,3,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1412352/760-anchor-cove-san-diego-ca-92154
+"17483 Plaza Dolores San Diego, CA",92128,3100.00,2,2,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1412199/17483-plaza-dolores-san-diego-ca-92128
+"1645 Sunnyside Ave San Marcos, CA",92078,3995.00,3,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1412144/1645-sunnyside-ave-san-marcos-ca-92078
+"645 Camino Magnifico San Marcos, CA",92069,5100.00,5,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1412143/645-camino-magnifico-san-marcos-ca-92069
+"742 Jefferson Ave Apt A Chula Vista, CA",91910,2200.00,2,1,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1411718/742-jefferson-ave-apt-a-chula-vista-ca-91910-8251
+"1205 Colusa St #3 San Diego, CA",92110,2295.00,1,1,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1411471/1205-colusa-st-#3-san-diego-ca-92110
+"5915 Caminito Chiapas San Diego, CA",92108,3895.00,4,2,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410943/5915-caminito-chiapas-san-diego-ca-92108
+"1252 Pinnacle Peak Dr Chula Vista, CA",91915,3200.00,2,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410942/1252-pinnacle-peak-dr-chula-vista-ca-91915
+"6867 Carnation Dr Carlsbad, CA",92009,3750.00,2,1.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410941/6867-carnation-dr-carlsbad-ca-92009
+"13505 Jadestone Way San Diego, CA",92130,3795.00,2,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410799/13505-jadestone-way-san-diego-ca-92130
+"748 Cooper Rd Chula Vista, CA",91911,4200.00,4,2.5,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410755/748-cooper-rd-chula-vista-ca-91911
+"534 Galeon Court Spring Valley, CA",91977,3450.00,4,2,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410754/534-galeon-court-spring-valley-ca-91977
+"2709 Elm Ave Unit A San Diego, CA",92154,3250.00,3,2,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410753/2709-elm-ave-unit-a-san-diego-ca-92154
+"1593 Standlake St. San Diego, CA",92154,3300.00,4,2,NA,NA,Pure,https://sandiego.purepm.co/san-diego-homes-for-rent/1410752/1593-standlake-st-san-diego-ca-92154
+"1038 B Street #B, Ramona, CA",11111,1695,2,1.5,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"1645 Warnock Dr Unit B, Ramona, CA",11111,2195,2,1.0,NA,10/18/2023,Uplift,https://upliftpm.com/available-properties/
+"142 Brandenburg Lane, Fallbrook, CA",11111,3395,3,2.0,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"2540 S., Escondido, CA",11111,3195,3,3.5,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"4728 Choctaw Dr, San Diego, CA",11111,2595,3,2.0,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"4304 51st St #8, San Diego, CA",11111,1795,1,1.0,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"813 B St Unit 4, Ramona, CA",11111,1795,2,1.0,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"1046 Swaner Street, San Diego, CA",11111,3495,3,2.0,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"1041 Calla Ave Unit F, Imperial Beach, CA",11111,1995,2,1.0,NA,Now,Uplift,https://upliftpm.com/available-properties/
+10350,10350,3095,2,2.0,NA,Now,Uplift,https://upliftpm.com/available-properties/
+22720,22720,4400,5,2.5,NA,Now,Uplift,https://upliftpm.com/available-properties/
+"411 Emerald Ave #9, El Cajon, CA",11111,1995,2,1.0,NA,NA,Uplift,https://upliftpm.com/available-properties/
+"1085 12th St Unit C, Imperial Beach, CA",11111,3595,3,1.5,NA,NA,Uplift,https://upliftpm.com/available-properties/
+NA,11111,NA,NA,NA,NA,NA,Uplift,https://upliftpm.com/available-properties/
+"6695 SARANAC STREET, SAN DIEGO, CA 92115",92115,3395,3,2,"1,212",NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"3145 Ronald Ct. #B, Spring Valley, CA 91977",91977,2195,2,1,500,NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"17626 Caminito Hercuba, San Diego, CA 92128",92128,3995,3,2,"1,777",NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"12741 Laurel St - #10, Lakeside, CA 92040",92040,2695,3,2,"1,132",NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"#31 27725 Mountain Meadow Rd - 31, Escondido, CA 92026",92026,1800,1,1,558,NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"10868 Sabre Hill Drive #268, San Diego, CA 92128",92128,2795,2,2,904,NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"1152 Naranca Ave, El Cajon, CA 92021",92021,3800,4,2,"2,400",NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"3956 Nobel Drive - 304, San Diego, CA 92122",92122,3295,2,2,"1,049",NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"1166 Koe St.  - KOES66, San Diego, CA 92114",92114,2195,2,1,450,NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"1164 Koe St.  - KOE64, San Diego, CA 92114",92114,2095,2,1,625,NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"2616 University Ave., San Diego, CA 92104",92104,2495,2,1,836,NA,Rancho Mesa,https://www.ranchomesarentals.com/rentals-san-diego/
+"875 G St - 601, San Diego, CA 92101",92101,2250,Studio,1,734,11/03/2023,New West Property Management,https://www.newwestpropertymanagement.com/availability
+"1480 Broadway #2206 , San Diego, CA 92101-5734",92101,2350,1,1,691,NOW,New West Property Management,https://www.newwestpropertymanagement.com/availability
+"7036 Keighley St, San Diego, CA 92120",92120,4950,4,2,1776,NOW,New West Property Management,https://www.newwestpropertymanagement.com/availability
+"1050 Island Ave #326 , San Diego, CA 92101",92101,3400,2,2,1003,NOW,New West Property Management,https://www.newwestpropertymanagement.com/availability
+"1325 Pacific Hwy #2805 - 2805, San Diego, CA 92101",92101,5500,2,2,1196,NOW,New West Property Management,https://www.newwestpropertymanagement.com/availability
+"1926 S. Pacific Street, Oceanside, CA 92054",92054,7200,3,2,1772,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/1926-S-Pacific-Street-Oceanside-CA-92054-2304/
+"3353 Tyler St., Carlsbad, CA 92008",92008,5600,3,3.5,2126,10/24/2023,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/3353-Tyler-St-Carlsbad-CA-92008-2141/
+"546 Faith Ave, Cardiff By The S, CA 92007",92007,4500,3,2,1613,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/546-Faith-Ave-Cardiff-By-The-S-CA-92007-2305/
+"602 N. Ditmar St., Oceanside, CA 92054",92054,4000,3,2,950,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/602-N-Ditmar-St-Oceanside-CA-92054-2303/
+"12358 Carmel Country Rd Unit 108, San Diego, CA 92130",92130,3995,3,2,1201,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/12358-Carmel-Country-Rd-Unit-108-San-Diego-CA-92130-2308/
+"3655 Adams Street, Carlsbad, CA 92008",92008,3800,2,1.5,1558,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/3655-Adams-Street--Carlsbad-CA-92008-2294/
+"1812 S. Clementine St. Unit 2, Oceanside, CA 92054",92054,3695,2,1,965,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/1812-S-Clementine-St-Unit-2-Oceanside-CA-92054-2302/
+"2270 Dunstan St Unit #2, Oceanside, CA 92054",92054,3600,2,2,1200,11/10/2023,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/2270-Dunstan-St-Unit-unit-2-Oceanside-CA-92054-2145/
+"2744 Via Tulipan, Carlsbad, CA 92010",92010,3600,3,2.5,1496,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/2744-Via-Tulipan-Carlsbad-CA-92010-2073/
+"318 Juniper Ave #7, Carlsbad, CA 92008",92008,3500,1,1,980,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/318-Juniper-Ave-unit-7-Carlsbad-CA-92008-2301/
+"3205 Via Tonala, Carlsbad, CA 92010",92010,3300,3,2.5,1500,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/3205-Via-Tonala-Carlsbad-CA-92010-443/
+"2835 Guajome Lake Rd., Oceanside, CA 92057",92057,3300,3,2,1500,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/2835-Guajome-Lake-Rd-Oceanside-CA-92057-1697/
+Breakwater Townhomes,11111,3150,2,1.5,772,Now,Chamberlain,https://www.cpmteam.com/property-listings/apartments/2541-Jefferson-St-Carlsbad-CA-92008-1648/
+"1014 Laguna Dr. #7, Carlsbad, CA 92008",92008,3100,2,2,925,11/11/2023,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/1014-Laguna-Dr-unit-7-Carlsbad-CA-92008-933/
+"2863 Andover Ave., Carlsbad, CA 92010",92010,3000,2,2,1112,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/2863-Andover-Ave-Carlsbad-CA-92010-1444/
+"1996 Stonecrest Ct., Vista, CA 92081",92081,3000,2,2,1349,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/1996-Stonecrest-Ct-Vista-CA-92081-1188/
+2855 Unicornio,11111,2995,2,2,1020,Now,Chamberlain,https://www.cpmteam.com/property-listings/apartments/2855-Unicornio--Carlsbad-CA-92009-2195/
+Carlsbad Cabana,11111,2950,2,1.5,900,Now,Chamberlain,https://www.cpmteam.com/property-listings/apartments/2730-Jefferson-St--Carlsbad-CA-92008-965/
+2657-2659 Jefferson St.,11111,2895,2,2,1000,Now,Chamberlain,https://www.cpmteam.com/property-listings/apartments/2657-2659-Jefferson-St--Carlsbad-CA-92008-956/
+"3514 Thunder Drive, Oceanside, CA 92056",92056,2550,2,2,1280,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/3514-Thunder-Drive-Oceanside-CA-92056-1992/
+Adams Street Apts.,11111,2550,1,1,785,Now,Chamberlain,https://www.cpmteam.com/property-listings/apartments/3969-Adams-St--Carlsbad-CA-92008-950/
+Cinnamon Apartments,11111,2250,1,1,650,10/21/2023,Chamberlain,https://www.cpmteam.com/property-listings/apartments/1031-Palm-Ave-Carlsbad-CA-92008-949/
+AFFORDABLE HOUSING Sunny Creek Apts,11111,1822,0,1,475,Now,Chamberlain,https://www.cpmteam.com/property-listings/apartments/5410-Sunny-Creek-Road--Carlsbad-CA-92010-1607/
+San Carlos Village Apartments,11111,1750,1,1,642,10/18/2023,Chamberlain,https://www.cpmteam.com/property-listings/apartments/7717-Tommy-Street-San-Diego-CA-92119-2101/
+"1146 Calle Emparrado, San Marcos, CA 92078",92078,1675,0,1,350,Now,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/1146-Calle-Emparrado-San-Marcos-CA-92078-2133/
+"1951 Ocean Front, Del Mar, CA 92014",92014,12000,3,2,1412,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/1951-Ocean-Front-Del-Mar-CA-92014-2300/
+"11319 W. San Raphael Dr, San Diego, CA 92130",92130,4950,3,2.5,1952,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/11319-W-San-Raphael-Dr-San-Diego-CA-92130-2120/
+"5145 Palmera Drive, Oceanside, CA 92056",92056,4695,5,3,2664,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/5145-Palmera-Drive-Oceanside-CA-92056-122/
+"501 North Pacific Street Unit #11, Oceanside, CA 92054",92054,3450,2,2,1006,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/501-North-Pacific-Street-Unit-unit-11-Oceanside-CA-92054-2293/
+"702 Sea Cliff Way, Oceanside, CA 92056",92056,2450,2,1,850,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/702-Sea-Cliff-Way-Oceanside-CA-92056-884/
+"10450 Caminito Rimini, San Diego, CA 92129",92129,2200,2,1,810,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/10450-Caminito-Rimini--San-Diego-CA-92129-2052/
+"1362 Avenida Arana Unit 2, San Marcos, CA 92069",92069,1950,1,1,600,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/1362-Avenida-Arana-Unit-2-San-Marcos-CA-92069-2241/
+"4927 Seascape Drive Unit 2, Oceanside, CA 92057",92057,1630,1,1,384,Rented,Chamberlain,https://www.cpmteam.com/property-listings/homes-and-condos/4927-Seascape-Drive-Unit-2-Oceanside-CA-92057-2178/
+"13425 Mulberry Dr - 17, Whittier, CA 90602",90602,2495,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=d549c65b-2a4a-49e8-8c32-178d78d50e5b&url=
+"13425 Mulberry Dr - 12, Whittier, CA 90602",90602,2495,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=f77f4096-1929-4837-808a-5bf40cb92fd5&url=
+"13425 Mulberry Dr - 13, Whittier, CA 90602",90602,1895,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=f846b491-e506-43b6-a005-da546fd2f75e&url=
+"20917 Amie Ave. - #25, Torrance, CA 90277",90277,2450,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=347acb98-7c7e-4e47-8e54-32e1218c1d52&url=
+"20917 Amie Ave. - #16, Torrance, CA 90277",90277,1950,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=616ec411-4bf9-4143-bdc2-aa616f53bb50&url=
+"9545 Flower St. 13, Bellflower, CA 90706",90706,1565,Studio,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=4bf84b30-f77d-4005-bae3-33c04f07b2b4&url=
+"7306 Neo St - 05, Downey, CA 90241",90241,1825,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=b805766a-738d-420d-a46d-5065da05c355&url=
+"16612 jib Cir - 01, Huntington Beach, CA 92649",92649,3495,3,2.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=0a671ebe-60dc-4507-9068-f76f0ab7d94f&url=
+"2721 Calle del Comerio - 5, San Clemente, CA 92672",92672,3795,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=f0f00232-4820-49c9-8c37-9865dd7564d1&url=
+"324 Marguerite #B, Corona Del Mar, CA 92625",92625,3995,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=03fd2114-c317-47e0-9529-ac3c6147e808&url=
+"1965 Wallace Ave - C1, Costa Mesa, CA 92627",92627,3495,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=88abd3f3-778e-4906-a10b-aad97df97a13&url=
+"7531 Knott Ave. - 02, Buena Park, CA 90620",90620,2495,2,1.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=89470587-3039-48c4-9896-3f43bd13cacd&url=
+"13501 Inglewood Ave - C, Hawthorne, CA 90250",90250,1695,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=0bd2d010-2e4a-4371-a6d1-7fa10d899336&url=
+"314 Pearson Ave - #18, Anaheim, CA 92802",92802,2095,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=ef2e0ddc-6ee2-47c0-a0a7-f2c210b583c2&url=
+"13240 Community Road, Unit LP13, Poway, CA 92064",92064,2640,2,1.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=c1687259-c348-44dc-ba7c-c5fc3245c9ef&url=
+"5838 Lauretta Street, San Diego, CA 92110",92110,2575,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=1e5c2b0b-ea57-488a-8849-6bd534ed7fc9&url=
+"1420 2nd Ave, #A11, Chula Vista, CA 91911",91911,2450,2,1.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=cc0e2804-3677-42d0-aa8d-9bff11435fd3&url=
+"3769 E 11th St - 103, Long Beach, CA 90804",90804,2475,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=f69c2488-3a14-40f7-8e64-a354e7bde042&url=
+"921 S. Park Circle Apt 20, Anaheim, CA 92804",92804,1795,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=0a800ced-5cff-46b3-803f-f3328ec58bc3&url=
+"1685 ORO VISTA ROAD #174, San Diego, CA 92154",92154,2250,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a62e28d8-6066-4c01-8600-d57017fef88f&url=
+"283 Avocado St - 17, Costa Mesa, CA 92627",92627,2695,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a1c7b092-3b50-48f8-b0a8-22ae9479dd92&url=
+"283 Avocado St - 24, Costa Mesa, CA 92627",92627,3195,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=6a48da53-e263-4319-9e22-588225078c5b&url=
+"5836 Beaumont, La Jolla, CA 92037",92037,5475,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=25442cf7-701e-43d1-9429-b35992d9250e&url=
+"1251 N. Placentia Ave. - #226, Anaheim, CA 92806",92806,2195,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a2da3939-4648-4e69-b38b-6f9c6e2e8109&url=
+"3927 Lamont Street, San Diego, CA 92109",92109,3195,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=758d723c-1ab3-40f6-ae3e-c56ca3828ad8&url=
+"11655 Petirrojo Ct, San Diego, CA 92124",92124,4895,4,3,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a3d12508-79ba-479d-9ef3-a64aeda3c0b5&url=
+"3105 Quartz Ln - 04, Fullerton, CA 92831",92831,2395,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=cc63c167-9c8a-4d4b-b189-e5f77f8ad0d6&url=
+"5185 Edgeware Rd, San Diego, CA 92116",92116,4400,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=475f6002-268c-4175-b73e-c813955b65a2&url=
+"1028 S. 30th Street-, Unit A, San Diego, CA 92113",92113,1995,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=e5e420b2-8123-4e6e-92bc-e58860a267cb&url=
+"4334 Beta St - 04, San Diego, CA 92113",92113,2295,2,1.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a724ada2-8b5c-4ed3-8811-56befb3d982e&url=
+"4670 34th Street, #01, San Diego, CA 92116",92116,2600,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=41f1f187-5584-4e91-9bc1-7e69913d18de&url=
+"968 Springfield St, Upland, CA 91786",91786,2500,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=9f389ae4-f84f-4c80-b17d-26454788485c&url=
+"3931 Lamont Street, San Diego, CA 92109",92109,2800,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=0c2253b4-3e24-4597-933e-c6057fba6b18&url=
+"1435 Circle City Dr. - 04, Corona, CA 92879",92879,2195,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=21974c48-305f-40f9-9e8b-f27a507c2d59&url=
+"4334 Beta St - 02, San Diego, CA 92113",92113,2295,2,1.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=d706b8b0-5214-4f4d-a1be-845feedc1b77&url=
+"4865 Canterbury Dr, San Diego, CA 92116",92116,6200,4,2.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=e4e66c3c-8ad5-4baf-b7e1-47722f10cdb7&url=
+"1435 Circle City Dr. - 16, Corona, CA 92879",92879,2195,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=2c07ea69-a7b2-463d-b23f-f95ef2fc7edb&url=
+"2550 College Place - 207, Fullerton, CA 92831",92831,3095,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=43d87535-3164-4031-9ffa-84316ef90e00&url=
+"415 S. Prospect Ave. - #106, Redondo Beach, CA 90277",90277,2895,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=35f0d789-fc1f-4289-9753-03032cfe14d4&url=
+"4021 8th Ave - 504, San Diego, CA 92103",92103,2495,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=72812b2f-7761-4249-9863-835a7813a6af&url=
+"415 Plymouth Drive - 03, Vista, CA 92803",92803,2500,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=68380894-ec62-4aed-b81d-ef2105a3d273&url=
+"4021 8th Ave - 409, San Diego, CA 92103",92103,2895,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=4ffa7a2b-7a99-4262-b4c2-7e65c9fed2e7&url=
+"16661 E. McFadden Ave. #58, Tustin, CA 92780",92780,1995,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=91221f3d-031b-41f4-b6a5-ceaa5aaf84d6&url=
+"689 S Berendo St - 506, Los Angeles, CA 90005",90005,2600,2,2.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=cd57fc55-ef82-4f4e-8dd7-2d9e8ef7c9ae&url=
+"689 S Berendo St - 503, Los Angeles, CA 90005",90005,2995,2,2.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=56f24932-d057-4e2e-b662-e42e59bb8479&url=
+"689 S Berendo St - 405, Los Angeles, CA 90005",90005,2775,2,2.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=74c6b0d3-0efa-4219-9376-082ed6f71c32&url=
+"689 S Berendo St - 403, Los Angeles, CA 90005",90005,2775,2,2.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=35925265-b7a2-4238-9931-4b823df6466e&url=
+"2673B Magnolia Ave, San Diego, CA 92109",92109,1850,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=69653a0c-6924-4cf6-9e8b-ba50eb735253&url=
+"3763 E 11th St - 204, Long Beach, CA 90804",90804,2475,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=2c02c64d-3674-47bc-92f2-787be3b26d55&url=
+"4226 Utah St - 16, San Diego, CA 92104-1853",92104,1750,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=299bc3d8-146f-4374-9388-fa3f6d0913c1&url=
+"4312 Green Ave - #11, Los Alamitos, CA 90720",90720,2495,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=e813d429-fc07-4c50-8d2a-56f5a4aacbe4&url=
+"4245 45th St - 02, San Diego, CA 92115",92115,1850,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a5db02be-8852-4ac1-946a-dd1dec0e6473&url=
+"13312 Community Road, Unit VP41, Poway, CA 92064",92064,2640,2,1.5,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=1b3d0056-6504-48ca-b49b-a45d856f7910&url=
+"3656 Garnet St. - #211, Torrance, CA 90503",90503,2550,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=ed337c36-ef94-4d3e-8b49-ea15bd4c9f9f&url=
+"3656 Garnet St. - #338, Torrance, CA 90503",90503,2195,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=58403716-e7a5-4da2-aa61-fae1f07dbf08&url=
+"4639 Pico Street - 03, San Diego, CA 92109",92109,2400,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=0b8a4548-9070-4fed-9232-67a4fea7e9f3&url=
+"3656 Garnet St. - #311, Torrance, CA 90503",90503,2550,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=59df3083-f66a-47c8-a0a9-b056a954e190&url=
+"3649 Emerald St. - #201, Torrance, CA 90503",90503,2525,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=706266e8-d94f-4b2b-89b0-467e0a837b65&url=
+"3649 Emerald St. - #120, Torrance, CA 90503",90503,1695,Studio,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=bbcf55d9-847a-4d05-bac8-dc94ca7e1ec1&url=
+"3649 Emerald St. - #131, Torrance, CA 90503",90503,2100,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=c2d471f6-cf29-48db-b6a4-66d15c780ce9&url=
+"18225 Kingsdale Ave. - #111, Redondo Beach, CA 90278",90278,2950,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=6c7b7319-572e-43dd-afcc-ab701f89070a&url=
+"415 S. Prospect Ave. - #305, Redondo Beach, CA 90277",90277,2950,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=3cc5a981-0136-42d4-b454-103bc40229be&url=
+"20917 Amie Ave. - #04, Torrance, CA 90503",90503,2495,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=04ad8abe-607e-4517-9ccf-9956c6bd398f&url=
+"4160 W. 182nd St. - #201, Torrance, CA 90504",90504,2195,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=4d5c9282-16d3-4e33-867d-368b8629c2b4&url=
+"18225 Kingsdale Ave. - #203, Redondo Beach, CA 90278",90278,2950,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=64ef2cb9-40d2-4125-8530-2e69f0ab0699&url=
+"1010-1052 Clearbrook Lane - 1046, Vista, CA 92084",92084,2000,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=fc4075da-6f51-4bb3-b77a-85c323aa037b&url=
+"4330 Morrell St, San Diego, CA 92109",92109,2395,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=e0e359c6-d270-4ba3-b6ad-9ff885b065b6&url=
+"283 Avocado St - 04, Costa Mesa, CA 92627",92627,2295,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=37a80ba2-417c-4ba6-9c85-677ec8f82805&url=
+"1321 S. Vine Ave - 65, Fullerton, CA 92833",92833,1995,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=03e065b8-2f0b-49bf-b406-ff7c215c1af6&url=
+"1321 S. Vine Ave - 90, Fullerton, CA 92833",92833,1895,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=6dbd9903-ee32-4218-a241-2ad2da4c243e&url=
+"516 S. Santa Fe Avenue - 404, Vista, CA 92084",92084,2675,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=aa03b05e-4e44-48bb-80de-114948e04539&url=
+"4841 Sussex Drive, San Diego, CA 92116",92116,4995,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=3a81c223-42f0-4f7f-b728-4808406a91bb&url=
+"16661 E. McFadden Ave. #8, Tustin, CA 92780",92780,1995,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=025c2d88-1ac5-4b28-b26c-d3c7ad9e4355&url=
+"4435 52nd St, San Diego, CA 92115",92115,2695,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=233e32be-c949-4408-99f2-d60caecae65d&url=
+"1429 F Ave - 22, National City, CA 91950",91950,1725,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a3125466-70c9-4d05-b2fb-a3804fb1078f&url=
+"311 E. Clifton Ave - 06, Anaheim, CA 92805",92805,2350,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=7d694691-2474-410a-8a35-dd59f8cf41e9&url=
+"4471 Winona Ave - 05, San Diego, CA 92115",92115,2400,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=c4dfa92e-a816-494f-9602-a7a928822b04&url=
+"3095 Harding Street, Carlsbad, Unit D, Carlsbad, CA 92008",92008,2090,Studio,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=f2eb6d06-cacc-484a-9006-c353cd978cfe&url=
+"4128 Wabash Ave, #14, San Diego, CA 92104",92104,2225,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=714f7180-7de1-4475-8142-fdc5f01f13f2&url=
+"283 Avocado St - 06, Costa Mesa, CA 92627",92627,2295,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=cea009f8-ad75-4c03-bdda-194b9d321b5e&url=
+"4078 Louisiana St, #02, San Diego, CA 92104",92104,2550,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=2b0743a2-2019-4545-a673-dbab58f5f50d&url=
+"1971 Grand Ave, San Diego, CA 92109",92109,2295,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=c086cb9c-eb6f-4160-921b-17d78823a99d&url=
+"11911 Dapple Way, San Diego, CA 92128",92128,5500,4,3,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=f4d934a2-2ddd-401f-aa03-781dbc88a368&url=
+"1357 Elder Ave., Unit 14, Imperial Beach, CA 91932",91932,1895,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=da3aab17-3a35-4b8f-9ea5-57643a801e17&url=
+"4639 Pico Street - 02, San Diego, CA 92109",92109,2400,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a5e094d1-8008-443e-9255-28dfbf920f29&url=
+"780B South Anza, El Cajon, CA 92020",92020,2675,3,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=61fa4f5a-5f44-4bff-844a-19e02bb39ff1&url=
+"100 S. Guadalupe Ave. - #105, Redondo Beach, CA 90277",90277,2295,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=0070daab-2abd-43ab-9c11-b76e9f31eb8c&url=
+"1427 F Ave - 23, National City, CA 91950",91950,1650,Studio,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=2801c230-07e6-4c14-9bb8-7227c8134668&url=
+"2879 Casey Street #A, San Diego, CA 92139",92139,2950,3,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=773f7249-127a-4bed-9735-b3bcb2d65a5b&url=
+"3753 E 11th St - 204, Long Beach, CA 90804",90804,2475,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=e6b10d9c-b66f-412d-93d4-ba219392a527&url=
+"4160 W. 182nd St. - #106, Torrance, CA 90504",90504,2195,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=626b7d86-50ee-42d3-a05c-72c42f8983a0&url=
+"1156 Hornblend Street, #07, San Diego, CA 92109",92109,2550,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=a5f108d6-c8e0-4911-a2a3-5d83fe0059d4&url=
+"3781 E 11th St - 104, Long Beach, CA 90804",90804,1750,Studio,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=adf4e8e8-b4d8-4a8d-a84c-1fb8b4cc81ad&url=
+"2620 W. Ball Road #103, Anaheim, CA 92804",92804,2045,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=0028dda7-7d42-40da-aff0-125d45b44576&url=
+"412 Arnold Way, Alpine, CA 91901",91901,2995,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=7be14df9-7831-468a-84b2-1b63d0663a1f&url=
+"509 N. Citrus St. , Orange, CA 92868",92868,2045,1,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=3e62773f-08ea-48ff-bdff-4a7c8e190ce7&url=
+"8677 Lemon Ave., La Mesa, CA 91941",91941,3295,2,1,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=3339467a-13ab-44bf-83f1-60d885003049&url=
+"8719 Lemon Ave., La Mesa, CA 91941",91941,3295,2,2,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=b1306d72-3bcc-46e5-a74c-0f19c68d8f26&url=
+"7171 Alvarado Road #201, 201, La Mesa, CA 91942",91942,1520,NA,NA,NA,NA,Fairgrove,https://fairgrovepm.com/find-your-home/?lid=498be18f-00f8-4859-9c6f-0815d3fc4b89&url=
+"1012 A Avenue#1022B, Coronado, CA 92118",92118,1900.00,NA,1,,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1411730/1012-a-avenue#1022b-coronado-ca-92118
+"1012 A Avenue#1020B, Coronado, CA 92118",92118,3999.00,3,2,,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1410882/1012-a-avenue#1020b-coronado-ca-92118
+"13382 Grandvia Point, San Diego, CA 92130",92130,6695.00,4,3,2385,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1410806/13382-grandvia-point-san-diego-ca-92130
+"1225 Island Ave #415 - 1, San Diego, CA 92101",92101,2250.00,1,1,650,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1407810/1225-island-ave-#415---1-san-diego-ca-92101
+"4060 Boundary Street, San Diego, CA 92104",92104,3100.00,2,1,900,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1406664/4060-boundary-street-san-diego-ca-92104
+"1637 Kearsarge Road - 1, La Jolla, CA 92037",92037,5100.00,2,2,1000,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1401109/1637-kearsarge-road---1-la-jolla-ca-92037
+"12382 Caminito Esmero, San Diego, CA 92130",92130,5749.00,4,2.5,2750,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1393171/12382-caminito-esmero-san-diego-ca-92130
+"1518 Bluebird Lane, La Jolla, CA 92037",92037,8000.00,5,5,3745,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1371873/1518-bluebird-lane-la-jolla-ca-92037
+"1012 A Avenue#1014A, Coronado, CA 92118",92118,3205.00,2,1,,Immediately,Harland,https://www.sandiegopropertymanagement.com/san-diego-homes-for-rent/1360466/1012-a-avenue#1014a-coronado-ca-92118
+"2173 ½ Ocean View Blvd., San Diego, CA 92113",92113,1725,1,1,NA,NA,Cethron,https://www.cethron.com/listings/detail/6de6ae5b-36e9-4387-a9ea-0b2123d31ea7
+"3417 Meade Avenue, San Diego, CA 92116",92116,3295,2,1,660,NA,Cethron,https://www.cethron.com/listings/detail/c998c5b6-e885-47f4-a059-5884070b74e2
+"4541 Contour Blvd. #6, San Diego, CA 92115",92115,2025,1,1,NA,NA,Cethron,https://www.cethron.com/listings/detail/da2fc7c1-e60e-4284-bdd3-2ba867abda75
+"6249-6253 Mary Lane Drive - 6253, San Diego, CA 92115",92115,1995,1,1,450,NA,Cethron,https://www.cethron.com/listings/detail/51ec68d7-2e92-46fb-b243-77b5a3a8e3e4
+"2017 Burroughs Street, San Diego, CA 92111",92111,1795,Studio,1,375,NA,Cethron,https://www.cethron.com/listings/detail/f539399e-850d-4ee5-827f-b369a745c69e
+"2015 Burroughs Street, San Diego, CA 92111",92111,3695,3,2,1300,NA,Cethron,https://www.cethron.com/listings/detail/21af80b6-13e9-4868-9f99-4f7661044329
+"631 Sacramento Ave., Spring Valley, CA 91977-5024",91977-5024,3100,3,1.5,1030,NA,Cethron,https://www.cethron.com/listings/detail/d5f7ae47-3485-4e83-b1aa-a23e6a7c0aff
+"3835 Swift Ave. #107, San Diego, CA 92104",92104,1285,1,1,450,NA,Cethron,https://www.cethron.com/listings/detail/66ac6122-625f-40aa-b02b-f25549eca045
+"3820 8th Ave. - 7, San Diego, CA 92103",92103,2200,1,1,NA,NA,Cethron,https://www.cethron.com/listings/detail/655908f5-2a57-4358-9db1-a3c725d1c67d
+"1568 Fayette Street, El Cajon, CA 92020",92020,NA,NA,NA,2295,NA,Cethron,https://www.cethron.com/listings/detail/c5dccccf-de22-49ec-bf72-66a47e21465a
+"8472 Via Sonoma, Unit 25, La Jolla, CA 92037",92037,3900,2,2.5,1332,NA,Cethron,https://www.cethron.com/listings/detail/7cb6b127-f3fe-4554-9781-93cdd2022855
+"1919 Mission Ave. #1919, San Diego, CA 92116",92116,2200,2,1,625,NA,Cethron,https://www.cethron.com/listings/detail/bfdf42a9-b9f3-4ac5-8534-85eaf9ddee45
+"1919 ½ Mission Ave., San Diego, CA 92116",92116,2200,2,1,625,NA,Cethron,https://www.cethron.com/listings/detail/afc21a72-f639-4e65-88f9-d4a2f4d275d6
+"9144 Rosedale Drive, Spring Valley, CA 91977",91977,3150,3,2,1205,NA,Cethron,https://www.cethron.com/listings/detail/f562f004-ffc7-4f6c-b780-4092ea4a9456
+"2234-2284 Fletcher Parkway - D, El Cajon, CA 92020",92020,1350,NA,NA,750,NA,Cethron,https://www.cethron.com/listings/detail/67401b47-dbcd-48aa-9659-7af46368b55c
+"4263 42nd Street #4, San Diego, CA",92105,1695.00,1,1,NA,NA,Sunset Property Management,https://sunsetspm.com/property/4263-42nd-street-4-san-diego-ca-92105/
+"3275 Caminito Eastbluff #205, La Jolla, CA",92037,3695.00,3,2.5,NA,NA,Sunset Property Management,https://sunsetspm.com/property/3275-caminito-eastbluff-205-la-jolla-ca-92037/
+"4670 Cherokee Avenue #5, San Diego, CA",92116,1895.00,1,1,NA,NA,Sunset Property Management,https://sunsetspm.com/property/4670-cherokee-avenue-5-san-diego-ca-92116/
+"5447 1/2 Mildred Street, San Diego, CA",92110,2495.00,2,2,NA,NA,Sunset Property Management,https://sunsetspm.com/property/5447-1-2-mildred-street-san-diego-ca-92110/
+"6552 Avenida Manana, La Jolla, San Diego, CA",92037,6495.00,4,2,NA,NA,Sunset Property Management,https://sunsetspm.com/property/6552-avenida-manana-san-diego-ca-92037/
+"1819 Woodland Ave, East Palo Alto, CA 94303",94303,2900,1,1,770,NA,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/ff929fc0-901b-43ea-bd30-f1297a1abb35
+" 1159 Santa Lucia Dr, Pittsburg, CA 94565",94565,3675,3,2,1864,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/c574b80f-dbae-4441-9f92-a058770c4b9b
+"1818 Webster St, San Francisco, CA 94115",94115,3800,2,1,986,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/6d91f8a4-fa96-4b49-8190-d93e278eb17b
+"767 Corbett Ave Unit 02, San Francisco, CA 94131",94131,4400,2,2.5,1097,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/a0694cfe-324a-41c7-b7d5-4f22c12018fa
+"8037 Camino Kiosco , San Diego, CA 92122",92122,2900,2,1,882,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/c57a30a7-0279-4e56-9774-960a11805951
+"19500 N McLeod Way, Boise, ID 83714",83714,3050,3,3,2396,11/1/23,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/55cc08fb-3c84-4a3b-8483-6df6ad10bb8e
+"17075 W Bernardo Dr Unit 106 , Rancho Bernardo, CA 92127",92127,3100,2,1,855,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/949a7107-f61c-450b-a299-5b52ca18e02b
+"2720 E Walnut Unit 70, Orange, CA 92867",92867,3900,3,2.5,1571,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/bf58f033-3503-46f8-8fcc-a7fadf423601
+"2237 Lago Madero, Chula Vista, CA 91914",91914,3600,3,2.5,1390,NA,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/3c28d685-eaea-422e-8985-4d90d26faeb2
+"13821 Orange St, Tustin, CA 92780",92780,3800,3,2,1230,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/b136389c-1a14-44a9-a287-4fc3b2129beb
+"9293 Regents Rd Unit 303, La Jolla, CA 92037",92037,2695,1,1,764,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/8ec994eb-9dc4-421c-aac8-d9311b8aee1c
+"524 41st St Unit D, Oakland, CA 94609",94609,1200,Studio,1,NA,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/b2b56efe-fee8-404c-8b87-b2c777b48812
+"1818 Luby Dr, San Jose, CA 95133",95133,2300,2,1,NA,NA,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/9397c817-8123-4763-bf52-16bbbd451dec
+"8039 Caminito De Pizza Unit I, San Diego, CA 92108",92108,2800,2,1.5,972,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/ccf9862c-33f7-4ecd-9661-368700dd2e90
+"8816 Promenade North Pl, San Diego, CA 92123",92123,3000,2,2,1140,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/ee3f57af-5225-4021-b03e-c64f76979b21
+"7637 Ney Ave, Oakland, CA 94605",94605,2800,3,1,1043,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/abaad6c9-380a-482c-973e-6f8782dd05c7
+"364 Esther Ave Unit A, Campbell, CA 95008",95008,2500,2,1,800,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/bb7f08f1-85c8-48a0-a8fd-9ae7108177e8
+"860 20th St , Oakland, CA 94607",94607,2350,2,2,800,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/cb95ef7b-d4d9-4c36-9a3c-b21a3fe402b2
+"155 Paloma Ave, San Francisco, CA 94127",94127,7350,5,4,3250,NOW,Tenant Planet,https://tenantplanet.appfolio.com/listings/detail/524df7ce-4763-4101-9f5e-af976bb921ac
+"1111 Adella Ave I Coronado, CA 92118",92118,3495.00,2,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1413592/1111-adella-ave-i-coronado-ca-92118
+"4627 Ocean Blvd 204 San Diego, CA 92109",92109,3200.00,1,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1413360/4627-ocean-blvd-204-san-diego-ca-92109
+"7579 Seton Hall St La Mesa, CA 91942",91942,4295.00,3,2.5,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1413084/7579-seton-hall-st-la-mesa-ca-91942
+"6214 Agee St 40 San Diego, CA 92122",92122,2395.00,1,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1412390/6214-agee-st-40-san-diego-ca-92122
+"6202 Friars Road #308 San Diego, CA 92108",92108,1995.00,Studio,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1412379/6202-friars-road-#308-san-diego-ca-92108
+"1851 Rios Ave Chula Vista, CA 91911",91911,4195.00,5,3,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1412297/1851-rios-ave-chula-vista-ca-91911
+"8132 Camino Del Sol La Jolla, CA 92037",92037,3950.00,2,2.5,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1411813/8132-camino-del-sol-la-jolla-ca-92037
+"1952 San Diego Ave San Diego, CA 92110",92110,1895.00,1,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1411580/1952-san-diego-ave-san-diego-ca-92110
+"1585 Stone Edge Cir El Cajon, CA 92021",92021,2300.00,2,1.5,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1411435/1585-stone-edge-cir-el-cajon-ca-92021
+"1917 Avenida Echeveria Chula Vista, CA 91913",91913,3995.00,3,2.5,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1411365/1917-avenida-echeveria-chula-vista-ca-91913
+"5705 Friars Rd #48 San Diego, CA 92110",92110,2500.00,1,1.5,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1410156/5705-friars-rd-#48-san-diego-ca-92110
+"1013 Camino Levante Chula Vista, CA 91913",91913,4695.00,4,3,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1406212/1013-camino-levante-chula-vista-ca-91913
+"4540 Ingraham St Unit A1 San Diego, CA 92109",92109,3895.00,2,2,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1406170/4540-ingraham-st-unit-a1-san-diego-ca-92109
+"1392 Corte Lira San Diego, CA 92069",92069,4545.00,4,3,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1406151/1392-corte-lira-san-diego-ca-92069
+"1111 Adella Ave Unit J Coronado, CA 92118",92118,2350.00,Studio,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1403015/1111-adella-ave-unit-j-coronado-ca-92118
+"1624 Hartwell Ct. San Diego, CA 92114",92114,3695.00,3,2,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1401942/1624-hartwell-ct-san-diego-ca-92114
+"735 Island Ct. San Diego, CA 92109",92109,2295.00,1,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1401881/735-island-ct-san-diego-ca-92109
+"924 Hornblend St #204 San Diego, CA 92109",92109,4995.00,2,2,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1400529/924-hornblend-st-#204-san-diego-ca-92109
+"2290 Congress St San Diego, CA 92110",92110,2395.00,1,1,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1399448/2290-congress-st-san-diego-ca-92110
+"441 Rancho Santa Fe Rd Encinitas, CA 92024",92024,6995.00,4,3.5,N/A,NA,Penny Realty,https://www.pennyrealty.com/san-diego-homes-for-rent/1393141/441-rancho-santa-fe-rd-encinitas-ca-92024
+"328 Kolmar St, La Jolla, CA 92037",92037,2275,1,1,400,NA,Alta Vista,https://www.altavistaproperties.net/listings/detail/a34ed4b7-25ec-49a6-b416-b605c147e699
+"1122 Avenida Amantea, La Jolla, CA 92037",92037,8950,4,2.5,2084,NA,Alta Vista,https://www.altavistaproperties.net/listings/detail/a0c8a0d5-60bf-4ee2-b615-1def216cf037
+"1970 Columbia St. #317, San Diego, CA 92101",92101,2450,1,1,600,NA,Alta Vista,https://www.altavistaproperties.net/listings/detail/e07ca157-5f78-491d-aacd-d969ae95cd7d
+"2610 Torrey Pines Rd, #C24, La Jolla, CA 92037",92037,3250,2,2,1204,NA,Alta Vista,https://www.altavistaproperties.net/listings/detail/6b5a9f09-974a-4466-884d-a75031eb2039
+"6231 Lakewood St, San Diego, CA 92122",92122,4950,3,2.5,2057,NA,Alta Vista,https://www.altavistaproperties.net/listings/detail/8d1b1d2b-eb29-4dcf-b7a3-d40e78121d9e
+"1039 Coast Blvd - Unit F, La Jolla, CA 92037",92037,8000,2,2,1390,NA,Alta Vista,https://www.altavistaproperties.net/listings/detail/7ce95489-fca3-4c80-a909-04be1fa10f6f
+"Application for Non-Vacant Property, Alta Vista Properties, Inc., San Diego, CA 92109",92109,NA,2,2,1390,NA,Alta Vista,https://www.altavistaproperties.net/listings/detail/0a5870ab-2bc5-462a-9120-a3326ce32fc5
+"2468 Longstaff Ct San Marcos, CA 92078",92078,3500,3,2.5,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/2468-longstaff-ct?p=Company
+"10480 Westchester Ave San Diego, CA 92126",92126,3750,4,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/10480-westchester-ave?p=Company
+"2427 Hawthorn Gln Escondido, CA 92027",92027,2500,2,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/2427-hawthorn-gln?p=Company
+"6750 Beadnell Way Unit 25 San Diego, CA 92117",92117,2500,2,2.0,NA,10/23/2023,Good Life Management,https://app.tenantturner.com/qualify/6750-beadnell-way-2?p=Company
+"4356 38th St San Diego, CA 92105",92105,2400,2,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/4356-38th-st?p=Company
+"8450 Aries Rd San Diego, CA 92126",92126,3900,3,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/8450-aries-rd?p=Company
+"14672 Via Fiesta Unit 5 San Diego, CA 92127",92127,4200,3,2.5,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/14672-via-fiesta?p=Company
+"575 6th Ave Unit 302 San Diego, CA 92101",92101,3300,2,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/575-6th-ave-2?p=Company
+"7260 Wembley St San Diego, CA 92120",92120,4500,3,2.5,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/7260-wembley-st?p=Company
+"4470 Dale Ave Unit 2 La Mesa, CA 91941",91941,1700,Studio,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/4470-dale-ave-1?p=Company
+"4470 Dale Ave Unit 1 La Mesa, CA 91941",91941,2700,2,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/4470-dale-ave?p=Company
+"1494 Union St Unit 209 San Diego, CA 92101",92101,3250,1,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/1494-union-st?p=Company
+"5160 Calle Sand Arch Unit 75 San Diego, CA 92154",92154,4300,4,4.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/5160-calle-sand-arch-1?p=Company
+"1277 N Mollison Ave Unit F El Cajon, CA 92021",92021,2450,2,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/1277-n-mollison-ave?p=Company
+"2218 River Run Drive Unit 110 San Diego, CA 92108",92108,2745,2,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/2218-river-run-drive?p=Company
+"575 6th Ave Unit 307 San Diego, CA 92101",92101,2395,1,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/575-6th-ave?p=Company
+"8445 Westmore Rd Unit 95 San Diego, CA 92126",92126,2550,2,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/8445-westmore-rd?p=Company
+"4938 Zion Ave San Diego, CA 92120",92120,4100,4,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/4938-zion-ave?p=Company
+"5091 Leo St San Diego, CA 92115",92115,3800,3,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/5091-leo-st?p=Company
+"550 15th St Unit 206 San Diego, CA 92101",92101,2700,2,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/550-15th-st-4?p=Company
+"7315 Calle Cristobal Unit 135 San Diego, CA 92126",92126,2700,2,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/7315-calle-cristobal?p=Company
+"54325 Avenida Alvarado La Quinta, CA 92253",92253,2400,3,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/54325-avenida-alvarado?p=Company
+"3476 Monroe Ave Unit 8 San Diego, CA 92116",92116,2550,2,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/3476-monroe-ave?p=Company
+"2203 Trevi Cir Chula Vista, CA 91913",91913,3995,4,3.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/2203-trevi-cir?p=Company
+"2522 Clairemont Dr Unit 107 San Diego, CA 92117",92117,3450,2,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/2522-clairemont-dr?p=Company
+"915 Sandpiper Pl La Jolla, CA 92037",92037,6295,3,2.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/915-sandpiper-pl?p=Company
+"4370 Swift Ave San Diego, CA 92104",92104,2350,2,1.0,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/4370-swift-ave?p=Company
+"6727 Bestwood Court San Diego, CA 92119",92119,4200,4,2.5,NA,Now,Good Life Management,https://app.tenantturner.com/qualify/6727-bestwood-court?p=Company
+"6727 Bestwood Court San Diego, CA 92119",92119,NA,NA,NA,NA,NA,Good Life Management,NA
+"6811 Alvarado Road #13, San Diego, CA 92120",92120,2595,2,2,1139,NA,The Comana Company,https://www.comanacompany.com/listings/detail/d4e0f6f9-1691-4df5-8a38-d403247107dd
+"643 Dorothy Street #3, El Cajon, CA 92019",92019,1950,2,1,850,NA,The Comana Company,https://www.comanacompany.com/listings/detail/be33024a-e90c-45b7-afee-f640a719e189
+"4152 Utah Street - Unit # 1, San Diego, CA 92104",92104,2095,1,1,850,NA,The Comana Company,https://www.comanacompany.com/listings/detail/7d6b642d-49cd-41d3-8d08-ad3ac8a50075
+"3736 Suffolk Drive, San Diego, CA 92115",92115,3550,3,1.5,1489,NA,The Comana Company,https://www.comanacompany.com/listings/detail/81154633-fbff-4999-be15-3d34ad0a9c5c
+"6932 Tower Street, La Mesa, CA 91942",91942,2350,2,1,660,NA,The Comana Company,https://www.comanacompany.com/listings/detail/14ef4517-90c6-4180-8a59-503f208cdeda
+"541 North 1st Street - 2, El Cajon, CA 92021",92021,1475,1,1,550,NA,The Comana Company,https://www.comanacompany.com/listings/detail/4ce4b301-b5e5-4adb-a78b-6d1074e47b9a
+"541 North 1st Street - 13, El Cajon, CA 92021",92021,1495,1,1,550,NA,The Comana Company,https://www.comanacompany.com/listings/detail/b23fe798-62db-4193-80a1-c239ba0b2eb0
+"6360 Dwane Avenue, San Diego, CA 92120",92120,5695,4,3,2638,NA,The Comana Company,https://www.comanacompany.com/listings/detail/ded8bbe9-561d-46f2-ab22-7af9b6c8dae0
+"589 N.Johnson Avenue, Unit 133, El Cajon, CA 92020",92020,2295,2,2,896,NA,The Comana Company,https://www.comanacompany.com/listings/detail/d149b82b-ebb3-493e-9648-9cef59db4c60
+"6816 Hyde Park Drive #F, San Diego, CA 92119-2247",92119,2795,2,2,1094,NA,The Comana Company,https://www.comanacompany.com/listings/detail/a8e68244-d58f-476c-8151-e93c77455dc0
+"1453 Marline Avenue, El Cajon, CA 92021",92021,2850,3,2,1050,NA,The Comana Company,https://www.comanacompany.com/listings/detail/79968b0e-206a-4bc4-850d-0b21b4585a0f
+"1581 Burton Street, San Diego, CA 92111",92111,2695,2,1,900,NA,The Comana Company,https://www.comanacompany.com/listings/detail/330c60e8-4003-4223-8b8c-00cdb301417d
+"4110 3rd Avenue - 103, San Diego, CA 92103",92103,2325,2,1,750,NA,The Comana Company,https://www.comanacompany.com/listings/detail/8982ce35-71d7-40ba-8d31-7fa1b38415ff
+"1863 Opaline Place #513, Chula Vista, CA 91913",91913,3650,3,2,1478,False,Home Team,https://www.hometeampm.com/rental-properties/1863-opaline-place-513-chula-vista-ca-91913
+"527 G Street Apt B, Chula Vista, CA 91910-3603",91910,2485,2,1,,False,Home Team,https://www.hometeampm.com/rental-properties/527-g-street-apt-b-chula-vista-ca-91910-3603
+"131 E 5th St, , CA 91950",91950,2550,2,1,682,False,Home Team,https://www.hometeampm.com/rental-properties/131-e-5th-st-national-city-ca-91950
+"438 B Avenue, , CA 91950",91950,2595,2,2,682,False,Home Team,https://www.hometeampm.com/rental-properties/438-b-avenue-national-city-ca-91950
+"930 Felspar Street - 5, San Diego, CA 92109",92109,3200,1,1,550,NA,Cazador Management,https://www.cazadormanagement.com/listings/detail/2a3bd626-2c6e-47ef-bfdb-f35d4f0cba8e
+"930 Felspar Street - 24, San Diego, CA 92109",92109,3200,1,1,550,NA,Cazador Management,https://www.cazadormanagement.com/listings/detail/42c5b230-5667-47ec-9374-8398e6762834
+"4328 Fanuel Street - 2, San Diego, CA 92109",92109,2995,1,1,550,NA,Cazador Management,https://www.cazadormanagement.com/listings/detail/89619f43-3c6b-4a36-9f86-15d9f33d24f2
+"930 Felspar Street - 6, San Diego, CA 92109",92109,2500,Studio,1,400,NA,Cazador Management,https://www.cazadormanagement.com/listings/detail/21d7d6fa-f919-4693-8da1-92742b2a6ed0
+"930 Felspar Street - 22, San Diego, CA 92109",92109,3200,1,1,550,NA,Cazador Management,https://www.cazadormanagement.com/listings/detail/8c284c1b-bcff-44bd-a7f8-5ecf4481466d
+1515 Montecito Rd #10 Ramona CA 92065,92065,1390.00,0,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5848&ismap=false
+2505 J Street #7 San Diego CA 92102,92102,1490.00,0,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=284&ismap=false
+2875 A Street #8 San Diego CA 92102,92102,1490.00,0,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3803&ismap=false
+2875 A Street #19 San Diego CA 92102,92102,1590.00,0,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3814&ismap=false
+1035 S 31st Street San Diego CA 92113,92113,1690.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=338&ismap=false
+4265 Euclid Ave #6 San Diego CA 92115,92115,1690.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=584&ismap=false
+4265 Euclid Ave #4 San Diego CA 92115,92115,1690.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=588&ismap=false
+3740 52nd St #8 San Diego CA 92105,92105,1690.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=4036&ismap=false
+4375 46th Street #4 San Diego CA 92115,92115,1750.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=613&ismap=false
+4375 46th Street #2 San Diego CA 92115,92115,1750.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=617&ismap=false
+389 S Lincoln Ave #15 El Cajon CA 92020,92020,1770.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=466&ismap=false
+4151 Arizona St #04 San Diego CA 92104,92104,1800.00,0,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5695&ismap=false
+4375 46th Street #9 San Diego CA 92115,92115,1810.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=612&ismap=false
+2875 A Street #25 San Diego CA 92102,92102,1850.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3820&ismap=false
+3070 Landis Street #5 San Diego CA 92104,92104,1890.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=306&ismap=false
+4070 Utah Street #6 San Diego CA 92104,92104,1990.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=514&ismap=false
+4512 Georgia St #2 San Diego CA 92116,92116,1990.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=643&ismap=false
+4541 Florida St #219 San Diego CA 92116,92116,2090.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=2259&ismap=false
+7516 Parkway Dr #2B La Mesa CA 91942,91942,2090.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3540&ismap=false
+1254 Eureka St San Diego CA 92110,92110,2090.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3766&ismap=false
+2818 Broadway San Diego CA 92102,92102,2190.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5128&ismap=false
+2144 30th St #9 San Diego CA 92104,92104,2200.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=211&ismap=false
+1264 Reed Ave #2 San Diego CA 92109,92109,2290.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3687&ismap=false
+12157 Orange Crest Ct #3 Lakeside CA 92040,92040,2300.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=42&ismap=false
+3744 Bancroft St #2 San Diego CA 92104,92104,2520.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5311&ismap=false
+8600 Lemon Avenue #5 La Mesa CA 91941,91941,2550.00,2,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=838&ismap=false
+3650 5th Ave #311 San Diego CA 92103,92103,2600.00,1,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5054&ismap=false
+3737 Keating St #10 San Diego CA 92110,92110,2640.00,2,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=406&ismap=false
+4765 W Mountain View Dr #9 San Diego CA 92116,92116,2690.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5048&ismap=false
+8365 Mount Vernon Lemon Grove CA 91945,91945,2790.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3980&ismap=false
+2072 Felspar St San Diego CA 92109,92109,2790.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=4235&ismap=false
+1747 Hornblend St #D San Diego CA 92109,92109,2850.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=117&ismap=false
+1180 Felspar St #3 San Diego CA 92109,92109,2950.00,2,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3737&ismap=false
+1468 Missouri St #4 San Diego CA 92109,92109,2995.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=85&ismap=false
+2020 Camino De La Reina #113 San Diego CA 92108,92108,3090.00,2,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3733&ismap=false
+1954 Chalcedony St #B San Diego CA 92109,92109,3200.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=171&ismap=false
+4112 Ingraham St San Diego CA 92109,92109,3200.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=528&ismap=false
+2126 Cable St San Diego CA 92107,92107,3200.00,2,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5772&ismap=false
+2522 Clairemont Dr #303 San Diego CA 92117,92117,3290.00,2,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=2193&ismap=false
+2403 Meade Ave #5 San Diego CA 92116,92116,3290.00,2,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=3756&ismap=false
+7811 Eads Ave #107 La Jolla CA 92037,92037,3750.00,2,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=812&ismap=false
+1235 Evergreen Dr Cardiff CA 92007,92007,4190.00,3,1,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5305&ismap=false
+4041 Boone St San Diego CA 92117,92117,4200.00,3,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=4568&ismap=false
+3509 Del Rey St #206 San Diego CA 92109,92109,4490.00,3,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=2212&ismap=false
+944 Loring St #D San Diego CA 92109,92109,4990.00,3,2,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=882&ismap=false
+3517 Del Rey St #108 San Diego CA 92109,92109,500.00,0,0,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=2029&ismap=false
+7400 El Cajon Blvd #302 La Mesa CA 91941,91941,900.00,0,0,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=795&ismap=false
+2818 Broadway GAR#B San DIego CA 92102,92102,180.00,0,0,NA,NA,Cal-Prop,https://listings.cal-prop.com/RMOXtraListing/ListingDetail?unitid=5341&ismap=false
+"3246 Ashford Street - K San Diego, CA 92111",92111,2595,2,1,716,NA,SD Property Management,https://sdpmanagement.com/rentals/
+"3586 Atlas Street San Diego, CA 92111",92111,3995,3,2,1600,NA,SD Property Management,https://sdpmanagement.com/rentals/
+"1369 Caminito Veranza #2 Chula Vista, CA 91915",91915,3795,3,3,1460,NA,SD Property Management,https://sdpmanagement.com/rentals/
+"3957 Nobel Dr #216 San Diego, CA 92122",92122,3595,2,2.5,1100,NA,SD Property Management,https://sdpmanagement.com/rentals/
+"7747 Margerum Avenue #126 - 1 San Diego, CA 92120",92120,2295,1,1,643,NA,SD Property Management,https://sdpmanagement.com/rentals/
+"1970 Columbia Street #512 San Diego, CA 92101",92101,2995,2,1,811,NA,SD Property Management,https://sdpmanagement.com/rentals/
+"3625 Vista Oceana #22, Oceanside, CA 92057",92057,2900,2,2,1120,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/1798a97a-b463-4d66-8a34-422337435365
+"401 N. coast Hwy #304, Oceanside, CA 92054",92054,4000,2,2.5,1400,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/88dd62b4-ea1b-404a-a6d9-0086abf52611
+"4330 Milano Way, Oceanside, CA 92057",92057,3700,3,2.5,1921,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/dc4f4c52-f721-4496-bada-cf0db48ee9d5
+"15185 Andorra Way, San Diego, CA 92129",92129,4600,2,2.5,1965,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/f73bbe7d-13a7-4851-a886-4465cd0b97e8
+"110 Vista Way, Oceanside, CA 92054",92054,3650,2,2,1375,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/e952105a-52ec-44e8-bd33-dfd2f87ec5f3
+"4212 Vista Del Rio, 6, Oceanside, CA 92057",92057,2700,2,2.5,1224,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/af0c9718-bf4e-4f89-87a2-45bd54456da5
+"3549 Paseo De Francisco, 224, Oceanside, CA 92056",92056,2900,2,2,1093,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/ec59c96b-730b-45dd-8f7a-166db827c8ce
+"410 Camino Hermoso, San Marcos, CA 92078",92078,4250,4,2.5,2172,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/0336bd81-20bf-404e-ad9f-61379fdefdfe
+"1511 La Casita Dr., San Marcos, CA 92078",92078,3395,2,2,1281,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/7a4ed2fb-4449-4713-9b25-c5b02212214e
+"Tuttle St, Carlsbad, CA 92008",92008,9500,2,2,1281,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/c1c84a28-cb84-415d-aaf6-800ccec27542
+"301 Mission, Oceanside, CA 92058",92058,9500,2,2,1281,NA,Ranch & Sea,https://www.ranchandsea.com/listings/detail/3db42f07-9e5d-4f81-ba77-7b8c7549afa1
+"6857 Mohawk Street, Unit A, San Diego, CA 92115",92115,3695,NA,NA,1650,NA,D&M Realty,https://www.dandmpropertymanagement.com/listings/detail/ca3914ef-29eb-40a5-bdda-54ddb8d67ab4
+"8654 Hurlbut Street, San Diego, CA 92123",92123,3795,3,2,1100,NA,Management Solutions,https://www.manageyourprop.com/listings/detail/5caf0f50-b531-4912-b9ef-cdfd9842d4cf
+"4021 E Logan, San Diego, CA 92113",92113,3295,2,2,768,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/96cf5a69-76dc-46b1-834d-2c8fbcdcc9c6
+"8650 Hurlbut Street, San Diego, CA 92123",92123,3795,3,2,1100,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/44bb0d52-e03b-4f85-876a-b33a8f13452b
+"4019 Logan Avenue , San Diego, CA 92113",92113,3295,3,1,718,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/d3eea715-965a-48bd-b9ea-20d1ee237aae
+"4015 B Logan, San Diego, CA 92113",92113,3395,2,2,768,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/70e7550f-ba65-4658-afc7-f1c2fc34f0e7
+"4013 H Logan, San Diego, CA 92113",92113,2595,1,1,670,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/36ff060b-2366-4d99-8fcf-2142da4a7c02
+"4021 F Logan, San Diego, CA 92113",92113,3395,2,2,768,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/db19d7ed-8ae9-4133-a60e-a36b9e446ed4
+"584 11th Street - UNIT 4, Imperial Beach, CA 91932",91932,2195,1,1,650,10/17/2023,Management Solutions,https://www.manageyourprop.com/listings/detail/d63b0e7d-6e82-48b2-93cc-c058c887f29f
+"238 Church Avenue - UNIT A, Chula Vista, CA 91910",91910,2195,1,1,NA,11/05/2023,Management Solutions,https://www.manageyourprop.com/listings/detail/0e4219c5-7286-4458-b6f0-1df14c866171
+"4015 A Logan, San Diego, CA 92113",92113,3295,2,2,768,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/43168ca6-5844-4005-8d43-5e83411419d2
+"3048 Adams Ave., San Diego, CA 92116",92116,1700,1,1,NA,11/21/2023,Management Solutions,https://www.manageyourprop.com/listings/detail/084b4abb-12e5-4758-8bc9-bca1fa7501ca
+"4585 1/2 33rd Street, San Diego, CA 92116",92116,2200,2,1,NA,10/17/2023,Management Solutions,https://www.manageyourprop.com/listings/detail/be2dc14a-da9c-4a53-9832-e927dc6f4b6a
+"238 Church Avenue - UNIT F , Chula Vista, CA 91910",91910,2295,1,1,500,12/05/2023,Management Solutions,https://www.manageyourprop.com/listings/detail/03fc2534-4867-440a-b595-30b975d7c98a
+"4023 Logan Avenue, San Diego, CA 92113",92113,3095,2,1,891,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/35fa1d22-6e4b-43d9-b698-a4084f76b3ef
+"2161 Grand Ave., San Diego, CA 92109",92109,2195,1,1,NA,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/333b4d63-5742-4b97-94d9-b6a1e665be50
+"1215 Hornblend Street - Unit #1, San Diego, CA 92109",92109,2300,NA,1,NA,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/d4ebbf5f-fdc1-45a4-9b3d-6cc431fe52d2
+"1447 Holly Avenue - Unit C, Imperial Beach, CA 91932",91932,1975,1,1,NA,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/7d7aaee3-faaf-41fe-9248-e5cca439b117
+"1447 Holly Avenue - Unit A, Imperial Beach, CA 91932",91932,1975,NA,NA,569,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/9136c68a-868b-42ca-8bec-01c7711fff68
+"1443 Holly Avenue , Imperial Beach, CA 91932",91932,3695,3,2,NA,NOW,Management Solutions,https://www.manageyourprop.com/listings/detail/ce445c33-fb64-48ca-8c0f-837e98909351
+"1717 Catalpa Road, Carlsbad, CA 92011",92011,4650.00,3,2,NA,NA,Harcourts Avanti,https://www.sandiegoproperty.management/san-diego-homes-for-rent/1411957/1717-catalpa-road-carlsbad-ca-92011
+"4941 Reynolds Street, San Diego, CA 92113",92113,4695.00,5,2.5,NA,NA,Harcourts Avanti,https://www.sandiegoproperty.management/san-diego-homes-for-rent/1411194/4941-reynolds-street-san-diego-ca-92113
+"1252 Green Orchard Pl, Encinitas, CA 92024",92024,5200.00,4,3,NA,NA,Harcourts Avanti,https://www.sandiegoproperty.management/san-diego-homes-for-rent/1410170/1252-green-orchard-pl-encinitas-ca-92024
+"2475 Jefferson #205, Carlsbad, CA 92008",92008,5000.00,2,2,NA,NA,Harcourts Avanti,https://www.sandiegoproperty.management/san-diego-homes-for-rent/1386439/2475-jefferson-#205-carlsbad-ca-92008
+"12549 Maestro Ct., San Diego, CA 92130",92130,4895.00,3,2.5,NA,NA,Harcourts Avanti,https://www.sandiegoproperty.management/san-diego-homes-for-rent/1139353/12549-maestro-ct-san-diego-ca-92130
+"8703 Lake Murray Blvd #1 San Diego, CA 92119",92119,2995,3,2,1209,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/26084
+"3246 Ashford Street - K San Diego, CA 92111",92111,2595,2,1,716,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/67095
+"1975 David Drive Escondido, CA 92026",92026,3695,3,2,1631,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/64729
+"3586 Atlas Street San Diego, CA 92111",92111,3995,3,2,1600,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/47787
+"3957 Nobel Dr San Diego, CA 92122",92122,3295,2,2.5,1100,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/8163
+"5208 Surfwalk Way - 154 San Diego, CA 92154",92154,3350,2,2.5,1310,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/62353
+"7747 Margerum Avenue San Diego, CA 92120",92120,2195,1,1,643,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/49778
+"7760 Margerum Avenue - 224 San Diego, CA 92120",92120,2995,3,2,1087,NA,SD Premier Property Management,https://sdpmanagement.managebuilding.com/Resident/public/rentals/67452
+"4452 Camrose Avenue, San Diego, CA 92122",92122,6000,5,3,2713,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/b46d0e19-81d2-4d22-b93c-79f3673ffff5
+"8755 Gilman Drive Unit G, La Jolla, CA 92037",92037,3100,2,1,885,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/5ddb5128-9a92-4173-a61c-6cfc300ca2d1
+"335 5th Avenue, Chula Vista, CA 91910",91910,3200,3,2.5,1452,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/b311261f-ad5b-4bdc-8a31-facb32b41503
+"5950 Agee Street, San Diego, CA 92122",92122,4300,3,2,1350,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/d5de96e3-bf46-446f-906c-9c670cdc9f89
+"10346 Rancho Carmel Dr, San Diego, CA 92128",92128,3800,3,2,1322,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/6f8ada66-5d75-4184-8e9a-cf94bac158d4
+"9929 Erma Road #103, San Diego, CA 92131",92131,2595,2,2,850,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/268f534e-4d55-4136-aeda-50365bfa06a8
+"1497 Green Oak Road, Vista, CA 92081",92081,3650,3,2,1466,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/f4422d0f-9779-4e1b-9524-a50df9d35089
+"11882-1 Cypress Canyon Road, San Diego, CA 92131",92131,2795,2,2,973,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/ee8ee40c-dc2d-4440-bec6-b7375b138391
+"17393 Plaza Dolores, San Diego, CA 92128",92128,3350,2,2,1431,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/e69e9e01-01db-427e-b019-1fe437844fbe
+"8423 Borealis Road, San Diego, CA 92126",92126,4000,5,3,2255,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/abff2257-6451-4013-9b38-2cfd6baedb76
+"4194 Dellwood Street, San Diego, CA 92111",92111,3795,3,2,1344,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/88d2d72f-6dc9-4626-92f9-8656922a3ed0
+"4113-D Mount Alifan Place, San Diego, CA 92111",92111,2550,2,1,943,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/a6821d7c-60d2-471f-bf2b-e545a5a99fd4
+"12978 Brome Way, San Diego, CA 92129",92129,3995,3,2,1403,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/ea9ccd81-b1ad-4f32-a840-f66171f4c4f5
+"6119 Calera Place, San Diego, CA 92130",92130,3995,3,2.5,1563,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/e9c6b789-d3aa-4bdb-806d-76a15261e526
+"3674 Newcrest Point, San Diego, CA 92130",92130,8500,3,3,3427,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/fef1f4d3-a540-464c-b593-c1ee424ac690
+"10246 Norma Gardens Drive #4, Santee, CA 92071",92071,3150,3,2,1348,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/76cd7be5-c6fd-459f-a99e-76e09bbcd701
+"2310 Ladlehill Drive, San Diego, CA 92139",92139,3500,3,2,1381,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/9f25f3cf-69f8-4aee-831e-21c44e093c8c
+"10758 Westonhill Drive, San Diego, CA 92126",92126,3800,4,2.5,1628,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/e9e5859e-3eb7-4781-b90e-ecbcc015b3be
+"930 Via Mil Cumbres #71, Solana Beach, CA 92075",92075,3800,2,2,1263,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/e3a8e0a2-45c6-4f2a-9544-f5904fb2acba
+"14139 Via Corsini, San Diego, CA 92128",92128,3995,4,2.5,2139,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/fc02753c-4c88-405c-b5a7-f9fe2e960ef5
+"13075 Olympus Circle #4, Poway, CA 92064",92064,3850,3,2.5,1605,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/99f830b4-1b08-455e-9d00-d44cf93f8071
+"10838 Aderman Avenue #141, San Diego, CA 92126",92126,2850,2,2,920,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/09b894e9-2211-4074-a76b-90fbc2074f24
+"9988 Hibert Street #300 - AHP, San Diego, CA 92131",92131,2850,2,2,920,NA,American Heritage Properties,https://www.renthomes.com/listings/detail/0a56da30-a2e0-4424-970a-8d14552f8add
+"4116 Oregon Street, Unit 5, San Diego, CA 92104",92104,2795,2,2,NA,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/61826ddf-94ca-4960-9ede-10ba93f59997
+"2221 Soledad Rancho Road, San Diego, CA 92109",92109,6200,3,2,1842,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/c9f27048-bc4d-4db4-950f-aaf49a334767
+"4340 Palm Avenue, Unit C204, La Mesa, CA 91941",91941,2295,1,1,567,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/1979d640-c6bc-42ec-b514-8553bfaa7f7b
+"4649 Voltaire Street, Unit 10, San Diego, CA 92107",92107,2795,2,2,567,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/1154f172-f2ba-4240-a243-c7cab7b0a9db
+"149 Daisy Avenue, Unit C, Imperial Beach, CA 91932",91932,2595,2,1,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/27bc8077-ce24-46ed-a139-f55676f0a0c1
+"3762 Promontory Street, San Diego, CA 92109",92109,2695,1,1,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/d82f8906-eccb-4ae7-a06c-da11cdd0b435
+"632 East 24th Street, Unit 4, National City, CA 91950",91950,1695,1,1,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/006d27fc-f1db-4c97-b872-3d1c6cad9550
+"3860 Haines Street, Unit C, San Diego, CA 92109",92109,3295,2,2,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/dca155e5-52e8-4624-8880-c1b02ef6e83b
+"5650 Jackson Drive, Unit 6, La Mesa, CA 91942",91942,2995,3,2,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b93b3464-64ec-4fcf-9c8a-4a25c0287eb2
+"947 Oak Avenue , Unit C, Carlsbad, CA 92008",92008,2395,1,1,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/ce345a49-b89b-42f7-8046-4b2380af3092
+"12760 Via Cortina, Unit 1, Del Mar, CA 92014",92014,3495,2,1.5,1000,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/6202a200-9605-4cb7-b459-d390a1242de8
+"338 Palomar Avenue, La Jolla, CA 92037",92037,3795,2,1,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/852f4827-7cb2-4ee2-816d-01937aff23b6
+"3380 32nd Steet, Unit 2, San Diego, CA 92104",92104,2995,2,1.5,900,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/0e0f277c-0c58-4b24-86cb-d757e9290cfc
+"4950 Del Mar Ave., San Diego, CA 92107",92107,3795,2,1,900,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/d7a03378-35a1-408c-b900-5401ba585250
+"5024 Mission Boulevard, San Diego, CA 92109",92109,2695,1,1,900,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/7fbcbc4b-0a42-459b-b5f0-10a342cf50f6
+"4346 Kansas Street, Unit 2, San Diego, CA 92104",92104,2495,2,1.5,900,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/1f92fda8-a64d-4b56-8909-4ba3420813bf
+"4347 1/2 Hamilton Street , San Diego, CA 92104",92104,1995,1,1,650,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/00607ee2-93f4-4915-b161-dab3dff99ad8
+"4345 Hamilton Street , San Diego, CA 92104",92104,2395,2,1,850,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/aa108de8-1ee2-4589-a2cc-7401e67eec99
+"9071 Dallas Street, Unit F8, La Mesa, CA 91942",91942,3095,3,2,1186,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/5582d89f-3e22-432d-af63-df408b30b855
+"9071 Dallas Street, Unit A1, La Mesa, CA 91942",91942,2695,2,2,1027,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/962ade80-97d9-43ca-a3c1-5f1614c34855
+"370 Chinquapin Avenue, Unit 1, Carlsbad, CA 92008",92008,3195,2,1.5,900,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/ef3b7293-2fd3-4f0c-b191-2d3271ffdbe4
+"2627 Kremeyer Cir., Unit 13, Carlsbad, CA 92008",92008,2895,2,2,918,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/6ad7ae6b-8512-4f9b-9613-ad8845e74b04
+"4444 Parks Avenue, Unit 10, La Mesa, CA 91941",91941,1895,1,1,918,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/4b6b3be2-7f41-4e8c-ab73-d820b0303072
+"1289 East Grand Avenue, Unit 213, Escondido, CA 92027",92027,2650,2,2,1120,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/285fd306-0010-47d4-aec6-72a5c211c951
+"302 Island Avenue, Unit 317, San Diego, CA 92101",92101,2000,Studio,1,800,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/40f7650d-8472-4af1-9a3e-916df52394f9
+"1059 E. Bradley Avenue, Unit 201, El Cajon, CA 92021",92021,2495,2,2,800,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/f2dd09b1-5765-45e8-a2bb-cc44189dd978
+"5151 Robinwood Road, Unit 49, Bonita, CA 91902",91902,2350,1,1,800,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/62ac4f59-df85-4240-912c-8d49f5f7bdd1
+"1303 East Grand Avenue, Unit 6, Escondido, CA 92027",92027,2650,2,2,1246,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/6d4cca4c-932a-47ae-9098-005600d4d97e
+"1550 Hornblend St, Unit 10, San Diego, CA 92109",92109,2295,1,1,1246,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b923ee63-98fb-4ff0-b5a1-fca1c909422e
+"646 MOSS STREET #38, CHULA VISTA, CA 91911",91911,2300,2,1.5,840,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/8bfd68e2-b726-411d-9cf0-4e6c91ddd1e0
+"646 MOSS STREET , Unit 36, CHULA VISTA, CA 91911",91911,2010,1,1,640,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/6ac1cf7e-ecd4-42c6-8cd6-4fa1211b00b5
+"540 Naples Street, Unit B, Chula Vista, CA 91911",91911,1495,Studio,1,640,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/21c12d55-8c41-4a11-a9eb-bd8a8708872c
+"3113 Market Street, Unit 2, San Diego, CA 92102",92102,1775,1,1,650,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/aecf2a83-9755-4235-99db-245f6c722377
+"3839 Nipoma Place, Unit 7, San Diego, CA 92106",92106,2995,2,1,650,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b3049485-020f-4da1-84af-fb6c3dcdfcad
+"2636 Grand Ave #224, San Diego, CA 92109",92109,3195,2,2,1057,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/14281b5a-b63d-4152-a87b-aa598f6cc6c6
+"4621 North Avenue, Unit 7, San Diego, CA 92116",92116,2050,1,1,1057,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/261744cf-4092-4748-996e-9eb6956e3131
+"4021 Richmond Street, Unit 4, San Diego, CA 92103",92103,2095,1,1,1057,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/5d77cad0-6022-49c2-bc86-fe9d56447080
+"1661 Thomas Avenue, Unit 4, San Diego, CA 92109",92109,3195,2,1,1125,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/612a5834-2220-427f-8d84-33a93f5c0a0e
+"3720 Yonge Street, Unit 13, San Diego, CA 92106",92106,2495,1,1,1125,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/cf0b7a9d-2441-4f1f-aa98-90159820a1b2
+"703 Stratford Ct., Unit #3, Del Mar, CA 92014",92014,3695,2,2,1125,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/91618721-aeea-4063-8926-bbc755f12d4e
+"4458 Alabama Street, Unit 4, San Diego, CA 92116",92116,2195,1,1,1125,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/0e0b5d58-2f45-432a-994c-2f0b04aeec87
+"3236 Herman Avenue, Unit 9, San Diego, CA 92104",92104,2695,2,1,1125,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/3337d289-e320-4b31-9171-cd353d022672
+"1459 Elder Ave., Apt #N, San Diego, CA 92154",92154,1950,1,1,640,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/5a79a278-62b7-43e6-9912-f1407e0f37e1
+"3661 Keating Street , San Diego, CA 92110",92110,1825,Studio,1,640,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/c7e5ff6c-f8a9-43d9-a3cb-f67a4b0f4750
+"2636 Grand Ave #241, San Diego, CA 92109",92109,2595,1,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/205f74f3-9202-4dcb-a552-5ce25b94b6c2
+"2627 Kremeyer Cir., Unit 07, Carlsbad, CA 92008",92008,2595,1,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b6882fa0-d51c-4e6d-bf6c-cf3eaccc51bf
+"441 Dominguez Way, Unit 21, El Cajon, CA 92021",92021,2095,2,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/31ae6778-376d-40cf-8df8-f6703c27d06d
+"4649 Voltaire Street, Unit 6, San Diego, CA 92107",92107,2095,1,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/d2eca2f1-31ac-496f-8b69-01a90ff47c62
+"149 Daisy Avenue, Unit D, Imperial Beach, CA 91932",91932,2195,1,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b510ad79-2e12-4450-9986-2d5c4801e559
+"656 Moss Street #135, Chula Vista, CA 91911",91911,2295,2,1.5,840,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/6b0e1913-ccaa-43d1-b89f-4ee95753dfa0
+"1471 13th Street, Unit 3, Imperial Beach, CA 91932",91932,1950,1,1,600,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/ced0b616-e8b7-4179-8e92-8ceafc21f4eb
+"1471 13th Street, Unit 1, Imperial Beach, CA 91932",91932,2250,2,1,600,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b93073de-253b-4185-9ff4-085fd60ce886
+"4424 44th St #226, San Diego, CA 92115",92115,2995,2,2,965,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/9a654218-9d3e-4497-98e9-d8e2631238e0
+"4424 44th St #246, San Diego, CA 92115",92115,2995,2,2,965,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/9a4185f4-b3a9-4ab5-906d-ac48888f0d44
+"1861 Chalcedony Street, Unit C, San Diego, CA 92109",92109,2995,2,1.5,965,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/407accf8-54e3-4564-ae11-8a494cf03bed
+"1854 Chalcedony Street, Unit C, San Diego, CA 92109",92109,3295,2,1,965,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/bdcd4638-64b3-41ee-9271-90005d67ab5e
+"540 Naples Street, Unit 19, Chula Vista, CA 91911",91911,1950,1,1,965,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/9d006988-c793-43e0-99bc-d483c338d65c
+"1990 Apple St, Unit 83, Oceanside, CA 92054",92054,2295,2,1,950,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/5bb7b810-f23a-4891-8459-99be01d9474f
+"2925 Broadway, Unit 103, San Diego, CA 92102",92102,2050,1,1,550,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/a8ca688c-d2ee-4246-b014-e55d3be3f60a
+"2530 Juan Street, Unit 9, San Diego, CA 92110",92110,2295,1,1.5,550,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/1af8ae44-e84b-41c9-8469-a899a160deef
+"1441 Elder Ave., Unit O, San Diego, CA 92154",92154,1995,1,1,640,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/9f1b4eda-3eb3-4f9a-9a1d-747dc6a431dd
+"4330 Palm Avenue, Unit B208, La Mesa, CA 91941",91941,2895,2,2,803,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/653e6372-4e92-4d92-85de-6c0f4d67ab9b
+"4134 Third Avenue , Unit 10, San Diego, CA 92103",92103,2695,2,2,803,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/0da49c83-1cc4-48a4-8e46-b5dd486e50a3
+"3111 Meade Avenue, Unit 6, San Diego, CA 92116",92116,2595,2,2,803,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/56b02260-5dc8-4411-ae67-3d3eae59345a
+"3976 Illinois Street, Unit 7, San Diego, CA 92104",92104,1995,1,1,525,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/46641dfd-2d09-4de3-9818-0207a88b9df3
+"302 Island Avenue, Unit 324, San Diego, CA 92101",92101,2000,Studio,1,800,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/746db54a-dd5f-4018-9968-597dfb4b4c07
+"4470 Euclid Avenue, Unit E, San Diego, CA 92115",92115,1795,Studio,1,800,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/a623efb9-51ac-4281-9dd6-f66113029cdf
+"720 East Mission Avenue, Unit 1, Escondido, CA 92025",92025,1825,1,1,795,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/85ee13ae-cf2a-4d6d-8eb3-caf5aea58e33
+"1859 Morena Boulevard, San Diego, CA 92110",92110,2095,1,1,795,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/c02eb86d-15c3-405b-830e-90e9d0506e7b
+"4424 44th St #122, San Diego, CA 92115",92115,2995,2,2.5,1015,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/79aa5f87-d60b-4fbf-904a-260d5e8b0197
+"4022 Albatross Street , Unit 407, San Diego, CA 92103",92103,2495,2,2,1015,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/ad40ca46-0c14-493f-ba3f-3f2bf8efe8d5
+"644 MOSS STREET #18, Chula Vista, CA 91911",91911,2150,1,1,640,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b388c7c5-9e71-4c14-a5e6-ea2da75490d8
+"2636 Grand Ave #348, San Diego, CA 92109",92109,3295,2,2,1057,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/4812343e-94d6-4f25-9369-4eda418414e2
+"6623 Montezuma Rd #63, San Diego, CA 92115",92115,2095,1,1,500,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/1a12c533-8fd2-48ad-9246-97ed5df78cb8
+"4435 44th Street 03, San Diego, CA 92115",92115,2295,1,1,500,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/74c52d44-1e94-4469-88f5-87f13c02f341
+"1486 Broadway Unit C-4, Chula Vista, CA 91911",91911,1895,1,1,605,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/f78e5592-9ed0-4e8a-a24e-20e2c05807b9
+"1725 ORO VISTA ROAD #220, SAN DIEGO, CA 92154",92154,2395,2,2,855,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/55d74de8-c698-41e9-a232-43516051f1f4
+"4350 Palm Avenue, Unit A307, La Mesa, CA 91941",91941,2895,2,2,878,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/48dacd80-6992-4586-8807-8c9934ba5938
+"3825 Riviera Drive, Unit 13, San Diego, CA 92109",92109,2295,1,1,878,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/f34d9391-3d16-4b9a-950c-ea30d040eda7
+"4236 Parks Avenue , Unit 10, La Mesa, CA 91941",91941,2295,2,2,870,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/113384d6-5dcd-4f32-a5db-9e8c00048d44
+"304 West Ivy Street, Unit 105, San Diego, CA 92101",92101,1695,Studio,1,870,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/7c4ee21a-d896-4de7-890a-c1b27b76975e
+"1808 3rd Avenue, Unit 3, San Diego, CA 92101",92101,1595,Studio,1,870,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/12328731-eaeb-459c-902d-a180421c80df
+"2929 Broadway, Unit 105, San Diego, CA 92102",92102,2050,1,1,550,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b435aa35-8240-4e99-af44-dce87aad9dad
+"2660 Hornblend St #O, San Diego, CA 92109",92109,2995,2,1,750,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/0a0f61cc-7847-4daf-9a0b-d8815d98188f
+"2263 Palm Ave #17, San Diego, CA 92154",92154,2400,2,2,900,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/aebba39b-503c-4273-988f-d1f6932d0de9
+"762 Hollister St #164, San Diego, CA 92154",92154,1950,1,1,682,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/33001a27-fc3a-44ba-9efb-540cc6a0975b
+"4655 Lamont Street, Unit 305, San Diego, CA 92109",92109,3095,2,1,821,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/a59e4bcf-3731-4efc-a926-63ec5f42184b
+"1930 Emerald Street, Unit 109, San Diego, CA 92109",92109,2795,2,1,821,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/d35e0a45-59b0-40be-b53d-b9a13c26e158
+"4424 44th St #135, San Diego, CA 92115",92115,2295,1,1,641,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/d9079c6b-6f6f-459f-958c-33712939a17c
+"4330 Palm Avenue, Unit B103, La Mesa, CA 91941",91941,2195,1,1,641,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/adabef19-59d2-4dcd-9069-90762c3f0893
+"2927 Broadway, Unit 103, San Diego, CA 92102",92102,1800,Studio,1,420,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/9b56a214-c5b2-4371-b6b1-3d1325980fe7
+"2660 Hornblend St #N, San Diego, CA 92109",92109,2995,2,1,750,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/d023e12b-8571-49e7-8ce1-bff3ce80b8e4
+"4330 Palm Avenue, Unit B203, La Mesa, CA 91941",91941,2195,1,1,567,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/b84792f0-ebd8-4d4d-a43c-a3a4e5793e88
+"3639 South Bonita Street, Unit 3, Spring Valley, CA 91977",91977,2095,2,2,700,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/1febdb3c-fe35-4816-8cb7-56258ae8f122
+"1990 Apple St, Unit 74, Oceanside, CA 92054",92054,2295,2,1,950,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/5cab1161-f3b2-4795-b9f2-03c27d538d91
+"933 Seacoast Drive, Unit I, Imperial Beach, CA 91932",91932,2750,1,1,700,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/6f8c10d9-7649-445e-864d-c6d83f8a4df2
+"3706 Georgia Street, Unit 4, San Diego, CA 92103",92103,2095,1,1,700,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/dfccab3c-fe1a-43b3-b7e7-261770fb4a7b
+"1035 19th St #204, San Diego, CA 92102",92102,2895,2,2,930,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/89a25b08-de1a-405f-b37b-74089a630378
+"2636 Grand Ave #230, San Diego, CA 92109",92109,3495,2,2,1057,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/1222062f-e8c2-42c7-bd7a-d80d01b21cf3
+"1741 ORO VISTA ROAD #250, SAN DIEGO, CA 92154",92154,2295,2,1.5,776,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/46fcf254-b243-4969-9879-171eeeb33292
+"4350 Palm Avenue, Unit A207, La Mesa, CA 91941",91941,2795,2,2,803,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/ca96d7a1-52cf-4a7a-85b7-9da940634b11
+"157 Daisy Avenue, Unit E, Imperial Beach, CA 91932",91932,1895,1,1,650,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/41aa11bf-28a5-49f4-b2ac-6893490766e0
+"9071 Dallas Street, Unit C8, La Mesa, CA 91942",91942,2595,2,2,1045,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/53b665c5-f0bf-4e6f-ab09-c2161b57e6d1
+"2636 Grand Ave #208, San Diego, CA 92109",92109,2395,1,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/485763c0-e18e-48f3-af59-faaba4e23216
+"4236 Parks Avenue , Unit 8, La Mesa, CA 91941",91941,1795,1,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/203b612a-77c2-45e5-a441-ed01f2efab69
+"4425 Cass Street Unit E, San Diego, CA 92109",92109,795,1,1,824,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/31ec5a7f-7ee5-4883-96e4-e1323e63a646
+"2636 Grand Ave #235, San Diego, CA 92109",92109,3095,2,2,1057,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/e6da4ceb-815e-487d-97d6-f7379ab0e763
+"9071 Dallas Street, Unit B39, La Mesa, CA 91942",91942,2195,1,1,704,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/af6c4763-3503-4581-a8a7-dc7d42ff97ac
+"6663 Montezuma Rd #21, San Diego, CA 92115",92115,2195,1,1,500,NA,Torrey Pines Property Management,https://www.torreypinespm.com/listings/detail/29e9584d-a531-4b27-a006-18205a99c1de
+"819 D. Avenue - #604, National City, CA ...",11111,3195,2,2,1034,Now,Elevate SD,https://homes.rently.com/homes-for-rent/properties/4388075?fromsearch=true&companyID=12965&source=iframe
+"819 D. Avenue - #217, National City, CA ...",11111,2995,2,2,1034,"Nov 20, 2023",Elevate SD,https://homes.rently.com/homes-for-rent/properties/4388076?fromsearch=true&companyID=12965&source=iframe
+"2466 1st Ave - #14, San Diego, CA 92101",92101,2795,Studio,1,668,Now,Elevate SD,https://homes.rently.com/homes-for-rent/properties/4362461?fromsearch=true&companyID=12965&source=iframe
+"1945 Avenida Del Mexico - #239, San Dieg...",11111,2695,2,2,950,Now,Elevate SD,https://homes.rently.com/homes-for-rent/properties/4384901?fromsearch=true&companyID=12965&source=iframe
+"2866 Grove Way, Castro Valley, CA 94546",94546,3395,2,2.5,1250,Now,Elevate SD,https://homes.rently.com/homes-for-rent/properties/4389304?fromsearch=true&companyID=12965&source=iframe
+"1285 Madera Street, San Diego, CA 92114",92114,2500,3,1,1000,NOW,People Helping Others,https://www.peoplehelpingothers.com/listings/detail/0e4eaf62-46b7-47d6-99ea-5ffcc5ff7ffc
+"727 Robinson Avenue #B, San Diego, CA 92103",92103,2100,1,1,471,NA,People Helping Others,https://www.peoplehelpingothers.com/listings/detail/b6b27c31-0f42-4777-87dc-3495c261029d
+"4423 48th Street, San Diego, CA 92115",92115,1900,1,1,540,NOW,People Helping Others,https://www.peoplehelpingothers.com/listings/detail/82567176-dbea-499a-ab13-7bb6c1234bb6
+"4046 Ohio Street, San Diego, CA 92104",92104,2125,1,1,500,NOW,People Helping Others,https://www.peoplehelpingothers.com/listings/detail/b390a1bb-14ac-4fe0-96f2-42e61d7dc2c5
+"4316 52nd Street #1, San Diego, CA 92115",92115,2250,2,2,650,NOW,People Helping Others,https://www.peoplehelpingothers.com/listings/detail/42414212-c223-4610-ad26-084984660d74
+"FOR ROOMMATES TO APPLY FOR RENTED PROPERTIES, San Diego, CA ",11111,2250,Studio,NA,NA,NA,People Helping Others,https://www.peoplehelpingothers.com/listings/detail/1ae86ab2-dd32-4f7f-b51c-ad21f0df7bfe
+"4170 Via Candidiz #194, San Diego 92130",92130,3750,3,2.5,1206,NA,Rancho Mesa,https://ranchomesa.appfolio.com/listings/detail/c7308b67-a161-4e4f-8ad3-531ef2397fde
+"7683 Mission Gorge Rd - #166, San Diego, CA 92120",92120,2795,2,2,1146,NA,Rancho Mesa,https://ranchomesa.appfolio.com/listings/detail/5d5e4461-4709-4175-ae1e-2b363dc58491
+"17626 Caminito Hercuba, San Diego, CA 92128",92128,3995,3,2,1777,NA,Rancho Mesa,https://ranchomesa.appfolio.com/listings/detail/7f3d2494-1087-4e20-ac88-8df25498a5f3
+"400 Civic Center Drive - B, Oceanside, CA 92054",92054,,NA,NA,NA,,Real Property Management,https://realpm.appfolio.com/listings/detail/cba588c0-f974-44d7-bc4a-bbd0d65a3cc3
+"339 S Escondido Blvd  - 4, Escondido, CA 92025",92025,,NA,NA,,,Real Property Management,https://realpm.appfolio.com/listings/detail/29815d51-799b-4f44-8f0d-69efac91fe5a
+"206 Inez Way , Oceanside, CA 92057",92057,,NA,NA,,,Real Property Management,https://realpm.appfolio.com/listings/detail/e407d4d5-56aa-4103-abb7-6e481e657c1e
+"4272 Esperanza Way, Oceanside, CA 92056",92056,,NA,NA,,,Real Property Management,https://realpm.appfolio.com/listings/detail/b3e776cb-b063-4e7f-8b8e-fb3edf96454d
+"1100 Wilshire Blvd Apt 2305 Los Angeles, CA 90017",90017,2395,1,2,800,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"7051 White Oak Ave Reseda, CA 91335",91335,2495,1,2,800,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"525 N Sycamore Ave #308 Los Angeles, CA 90036",90036,2500,1,2,676,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"4332 Ventura Canyon Ave Apt 12 Sherman Oaks, CA 91423",91423,2500,1,2,1100,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"10757 Hortense St Unit 303 Toluca Lake, CA 91602",91602,2600,1,2,929,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"525 N Sycamore Ave #421 Los Angeles, CA 90036",90036,2700,1,2,680,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"18324 Clark St #112 Tarzana, CA 91356",91356,3385,1,2,1606,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"12411 Osborne St, Unit 61 Pacoima, CA 91311",91311,3400,1,2,1286,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"2219 1/2 W Court St Los Angeles, CA 90026-5318",90026,3495,1,2,1345,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"4637 Willis Ave, Unit 103 Sherman Oaks, CA 91403",91403,3595,1,2,1196,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"1546 1/2 Rosalia Rd Los Angeles, CA 90027",90027,3650,1,2,940,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"6026 Greenbush Ave Van Nuys, CA 91401",91401,4550,1,2,1804,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"2921 N Frederic St Burbank, CA 91504",91504,5500,1,2,1712,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"3326 Floyd Ter Los Angeles, CA 90068",90068,5600,1,2,1542,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"4121 Hayvenhurst Dr Encino, CA 91436",91436,6995,1,2,2892,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
+"12400 Rochedale Ln Los Angeles, CA 90049",90049,8800,1,2,2330,NA,Earnest,https://theearnesthomes.com/renters/#rental-feed-header
