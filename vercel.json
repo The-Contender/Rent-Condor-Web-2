@@ -1,15 +1,5 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "source": "/rc-web/**/*",
-      "use": "@vercel/node"
-    },
-    {
-      "source": "/rc-express/**/*",
-      "use": "@vercel/node"
-    }
-  ],
   "routes": [
     {
       "src": "/api/(.*)",
