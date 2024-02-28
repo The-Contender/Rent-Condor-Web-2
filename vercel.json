@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "source": "/rc-web/**/*",
+      "use": "@vercel/node"
+    },
+    {
+      "source": "/rc-express/**/*",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/rc-express/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/rc-web/$1"
+    }
+  ]
+}
