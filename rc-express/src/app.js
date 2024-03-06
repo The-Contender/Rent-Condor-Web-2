@@ -7,6 +7,7 @@ require("dotenv").config({ path: "../.env" });
 
 const mysql = require("mysql2");
 const connection = mysql.createConnection(process.env.DATABASE_URL);
+const devconnection = mysql.createConnection(process.env.DEV_DATABASE_URL);
 
 const middlewares = require("./middlewares");
 const api = require("./api");
@@ -22,6 +23,22 @@ app.get("/", (req, res) => {
   //adding comments to force redeploy
   // Query to select the first 10 rows from 'properties' table
   connection.query("SELECT * FROM properties", (err, rows, fields) => {
+    if (err) {
+      // Proper error handling
+      console.error("Error while fetching data: ", err);
+      res.status(500).send("Error while fetching data");
+      return;
+    }
+    // Send the rows as the response
+    //console.log(rows); //update
+    res.send(rows);
+  });
+});
+
+app.get("/dev", (req, res) => {
+  //adding comments to force redeploy
+  // Query to select the first 10 rows from 'properties' table
+  devconnection.query("SELECT * FROM properties", (err, rows, fields) => {
     if (err) {
       // Proper error handling
       console.error("Error while fetching data: ", err);
